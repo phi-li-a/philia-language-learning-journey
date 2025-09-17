@@ -2,38 +2,92 @@
 ```
 ---
 # 01 - INTRODUCTION
-## I. General Features of Japanese
+## I. General Features of Japanese 
 ### 1. Parts of Speech
 The Japanese language is [[Comprised]] of [[Verbs]], [[Adjectives]], [[Nouns]], [[Adverbs]], [[Conjunctions]] and [[Particles]].
+
+>[!info]- Terjemahan
+>(CIRI KHAS BAHASA JEPANG)
+>**Jenis Kata** 
+>Dalam bahasa Jepang terdapat Kata Kerja, Kata Sifat, Kata Benda, Kata Keterangan, Kata Penghubung, Partikel dan lain-lain.
+
+---
 ### 2. Word Order
 A [[Predicate (Grammar)]] always comes at the end of a [[Sentence (Grammar)]]. A [[Modifier]] always comes before the [[Word]] or [[Phrase (Grammar)]] to be modified.
+
+>[!info]- Terjemahan
+>**Urutan Kata**
+>Partikel diletakkan pada akhir kalimat. Kata yang menerangkan diletakkan di depan kata yang diterangkan.
+
+---
 ### 3. Predicate
 There are three types of predicates in Japanese: noun, verb and adjective. A predicate [[inflects]] according to whether it is (1) affirmative or negative and (2) non-past or past.
 Adjectives are divided into two types according to their type of inflection. They are called い-adjectives and な-adjectives.
 In Japanese, words do not inflect for person, gender or number.
+
+>[!info]- Terjemahan
+>**Predikat**
+>Yang menjadi predikat bahasa Jepang adalah Kata Kerja, Kata Sifat dan Kata Benda + です (だ). Predikat berubah bentuk sesuai dengan positif atau negatif, atau waktu lampau atau waktu non lampau. Predikat tidak berubah bentuknya karena orang, jenis kelamin atau bilangan.
+
+---
 ### 4. Particle
 A particle is used to show the grammatical relation between words, to show the speaker's intention or to connect sentences.
+
+>[!info]- Terjemahan
+>**Partikel**
+>Pada belakang kata atau kalimat dipakai partikel. Partikel menunjukkan hubungan antara kata dan kata, atau berfungsi untuk membubuhkan berbagai arti.
+
+---
 ### 5. Omission
 Words or phrases are often [[omitted]] if they are understood from the context. Even the [[Subject (Grammar)]] and [[Object (Grammar)]] of a sentence are often omitted.
+
+>[!info]- Terjemahan
+>**Penghilangan**
+>Subjek atau objek kadang-kadang dihilangkan jika konteks kalimat dapat dipahami.
 
 ---
 ## II. Japanese Script
 There are three kinds of [[letters]] in Japanese: hiragana, katakana and kanji (Chinese characters). Hiragana and katakana are [[phonetic]] [[representations]] of sounds, and each letter basically [[corresponds]] to one mora (a unit of sound. See [[#III. Pronunciation of Japanese|III. Pronunciation of Japanese]]). Kanji [[convey]] meanings as well as sounds.
 
 In Japanese [[script]], all three types of letters are used together. Katakana are used to write foreign names and loan words. 1945 kanji letters are fixed as essential for daily use. Hiragana are used to write particles, the [[inflectable]] parts of words, etc. Other than these three types of letters, romaji (Roman letters) are sometimes used for the convenience of foreigners. You may see romaji at stations and on signboards. Below are examples of all four types of script.
-![[content/03. Files/MNN1.png]]
+![[MNN01.png]]
+
+>[!info]- Terjemahan
+>**AKSARA BAHASA JEPANG**
+>
+Aksara bahasa Jepang terdapat tiga jenis, yaitu Hiragana, Katakana, dan Kanji. Hiragana dan Katakana adalah aksara silabis sedangkan Kanji adalah ideogram yang menunjukkan bunyi sekaligus artinya.
+>
+Bahasa Jepang biasanya ditulis bercampur dengan Hiragana, Katakana dan Kanji. Nama warga asing, nama daerah atau kata serapan dari bahasa asing ditulis dengan Katakana. Hiragana digunakan untuk penulisan partikel atau bagian konjugasi Kata Kerja dan Kata Sifat.
+>
+Selain itu, adakalanya huruf Latin digunakan sebagai penulisan untuk nama warga asing. Penulisan dalam huruf Latin dapat dilihat pada penunjuk nama stasiun.
+>
+>![[Pasted image 20250917184756.png]]
+>
+>
+
 
 ---
 ##  III. 「{日本語|にほんご}の{発音|はつおん}」(Pronunciation of Japanese)
 ### 1.「 かなと拍《はく》」 (Kana and Mora)
 
-![[content/03. Files/MNN2.png]]
+![[MNN03.png]]
 
 The Japanese language is based on five [[vowel]] sounds: あ (a), い (i), う (u), え (e) and お (o) (see the table). All spoken sounds are [[derived]] from these five vowels. They are used alone or are [[attached]] to either a consonant (e.g., k + a = か) or a consonant plus the semi-vowel “y” (e.g., k + y + a = きゃ). The exception to this is a special mora, ん (n), which is not followed by vowels. All of these sounds are of equal length when spoken.
 
 >**[Note 1]** A mora is a unit of sound in Japanese.
 
 >**[Note 2]** In order to write the Japanese language according to the pronunciation, kana are used. (See “Kana and Mora” on the previous page.) One kana letter or one kana letter [[accompanied]] by a small kana letter (e.g., きゃ) basically corresponds to one mora.
+
+>[!info]- Terjemahan
+**INTRODUKSI**
+**I. Ucapan Bahasa Jepang**
+**1. Kana dan Mora**
+>
+Bunyi Bahasa Jepang dapat ditunjukkan oleh **Kana** seperti daftar di bawah ini. **Mora** adalah satuan bunyi Bahasa Jepang yang sama panjangnya dengan satu huruf Kana (dua huruf untuk **Yoon**).
+>
+Vokal dalam Bahasa Jepang terdapat lima macam, yaitu あ(a), い(i), う(u), え(e) dan お(o) dan vokal tersebut selain berdiri sendiri, juga membentuk sebuah bunyi dengan disertai konsonan di depannya, atau juga disertai konsonan bersama semi vokal (y) (Contoh: k + a = か, k + y + a = きゃ) (ん adalah pengecualian). Bunyi tersebut diucapkan dengan panjang yang hampir sama.
+>![[MNN04.png]]
+>
 
 ### 2. 「長音《ちょうおん》」(Long Vowels)
 A long vowel is pronounced twice as long as the ordinary vowels あ, い, う, え and お. If you count the length of the vowel あ as one, the length of the long vowel ああ is counted as two. This means あ is one mora long, whereas ああ is two moras long.
@@ -66,6 +120,29 @@ Whether a vowel is long or not can change the meaning of the word.
 ##### 2) How to write the long vowels in katakana
 
 For all the lines, add “—.”
+>[!info]- Terjemahan
+**2. Vokal Panjang**
+>
+Vokal Bahasa Jepang ada lima macam, yaitu あ, い, う, え, dan お, di samping itu vokal yang diucapkan bunyi yang panjang disebut **vokal panjang**. Vokal diucapkan satu mora sedangkan vokal panjang diucapkan dua mora. Berdasarkan panjang atau pendeknya vokal akan menimbulkan perbedaan arti kata.
+>
+Contoh:
+>- おばさん(tante) : おばあさん(nenek)
+>- おじさん(om) : おじいさん(kakek)
+>- ゆき(salju) : ゆうき(keberanian)
+>- え(gambar) : ええ(ya)
+>- とる(mengambil) : とおる(melewati)
+>- ここ(sini) : こうこう(SMA)
+>- へや(kamar) : へいや(padang)
+>- カード(kartu) : タクシー(taksi) : スーパー(pasar swalayan)
+>- エスカレーター(eskalator) : ノート(buku catatan)
+>
+[Perhatian] **1) Cara Menulis Hiragana**
+>- Bunyi panjang dari Kolom あ, Kolom い, Kolom う masing-masing dibubuhi あ, い, う. 
+>- Bunyi panjang dari Kolom え dibubuhi い. (Pengecualian: ええ(ya), ねえ(he), おねえさん(kakak perempuan) dan sebagainya)
+>- Bunyi panjang dari Kolom お dibubuhi う. (Pengecualian: おおきい(besar), おおい(banyak), とおい(jauh) dan sebagainya)
+>
+**2) Cara Menulis Katakana**
+Menggunakan tanda — sebagai tanda bunyi panjang.
 
 ### 3. 「発音《はつおん》」(Pronunciation of ん)
 
