@@ -142,7 +142,7 @@ Contoh:
 >- Bunyi panjang dari Kolom お dibubuhi う. (Pengecualian: おおきい(besar), おおい(banyak), とおい(jauh) dan sebagainya)
 >
 **2) Cara Menulis Katakana**
-Menggunakan tanda — sebagai tanda bunyi panjang.
+Menggunakan tanda "—" sebagai tanda bunyi panjang.
 
 ### 3. 「発音《はつおん》」(Pronunciation of ん)
 
