@@ -9,7 +9,7 @@ The Japanese language is [[Comprised]] of [[Verbs]], [[Adjectives]], [[Nouns]], 
 >[!info]- Terjemahan
 >(CIRI KHAS BAHASA JEPANG)
 >**Jenis Kata** 
->Dalam bahasa Jepang terdapat Kata Kerja, Kata Sifat, Kata Benda, Kata Keterangan, Kata Penghubung, Partikel dan lain-lain.
+>Dalam bahasa Jepang terdapat [[Kata Kerja]], [[Kata Sifat]], [[Kata Benda]], [[Kata Keterangan]], [[Kata Penghubung]], [[Partikel]] dan lain-lain.
 
 ---
 ### 2. Word Order
@@ -61,7 +61,7 @@ Bahasa Jepang biasanya ditulis bercampur dengan Hiragana, Katakana dan Kanji. Na
 >
 Selain itu, adakalanya huruf Latin digunakan sebagai penulisan untuk nama warga asing. Penulisan dalam huruf Latin dapat dilihat pada penunjuk nama stasiun.
 >
->![[Pasted image 20250917184756.png]]
+>![[MNN02.png]]
 >
 >
 

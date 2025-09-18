@@ -1,4 +1,4 @@
-<small>verba/ver·ba/ /vérba/ n Ling (nomina (kata benda), linguistik)
+<small>/ver·ba/ /vérba/ n Ling (nomina (kata benda), linguistik)
 </small>
 >[!note] Definisi
 > kata yang menggambarkan proses, perbuatan, atau keadaan; kata kerja;
@@ -52,3 +52,5 @@
 >  verba yang memiliki objek;
 >- Verba utama
 >  bentuk verba yang mengungkapkan makna 'perbuatan' (dipertentangkan dengan verba bantu)
+
+tag: [[Kata Kerja]]

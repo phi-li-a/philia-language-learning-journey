@@ -69,4 +69,4 @@ C2 [ C ]
 > > > [!example] Contoh
 > > > - Dia tidak mau memberiku informasi sedikit pun (a particle of information) tentang apa yang telah dilakukannya.
 
-tag: [[Particles]]
+tag: [[Particles]], [[Partikel]]

@@ -26,4 +26,4 @@ A2</small>
 > > > - Dalam frasa 'a sudden movement' (gerakan yang tiba-tiba), 'sudden' adalah kata sifat dalam posisi atributif.
 > > > - Menurutku, aku tidak akan menyebutnya gambar yang indah - 'interesting' (menarik) mungkin kata sifat yang lebih baik untuk digunakan!
 
-tag: [[Adjectives]]
+tag: [[Adjectives]], [[Adjektiva]], [[Kata Sifat]]

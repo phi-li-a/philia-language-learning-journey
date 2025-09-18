@@ -1,0 +1,6 @@
+<small>/ad·ver·bia/ /advérbia/ n Ling (nomina (kata benda), linguistik)
+</small>
+>[!note] Definisi
+> yang memberikan keterangan pada verba, adjektiva, nomina predikatif, atau kalimat, misalnya *sangat, lebih, tidak*
+
+tag: [[Kata Keterangan]]

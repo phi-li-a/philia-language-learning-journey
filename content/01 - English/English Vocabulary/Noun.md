@@ -27,4 +27,4 @@ A2
 > > > - Contoh kata benda nama diri (proper noun) dalam bahasa Inggris adalah Joseph, Wina (Vienna), dan Gedung Putih (the White House).
 > > > - 'Family' (keluarga) dan 'flock' (kawanan) adalah contoh kata benda kolektif (collective noun).
 
-tag: [[Nouns]]
+tag: [[Nouns]], [[Nomina]], [[Kata Benda]]

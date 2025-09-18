@@ -17,4 +17,4 @@ A2
 > > > [!example] Contoh
 > > > - Kata "run" (lari), "keep" (menyimpan), dan "feel" (merasa) semuanya adalah kata kerja.
 
-tag: [[Verbs]]
+tag: [[Verbs]], [[Verba]], [[Kata Kerja]]

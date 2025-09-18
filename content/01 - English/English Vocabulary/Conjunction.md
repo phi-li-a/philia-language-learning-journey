@@ -58,4 +58,4 @@ C2 [ C or U ]
 > > > [!example] Contoh
 > > > - Mars dan Venus akan berada dalam konjungsi sempurna pada tanggal 1 September.
 
-tag: [[Conjunctions]]
+tag: [[Conjunctions]], [[Konjungsi]], [[Kata Keterangan]]

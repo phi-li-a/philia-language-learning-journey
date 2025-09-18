@@ -29,4 +29,4 @@ A2
 > > > - Hari ini kita belajar tentang kata keterangan cara (manner), waktu (time), dan tempat (place).
 > > > - Sebuah phrasal verb terdiri dari gabungan kata kerja dengan preposisi atau kata keterangan.
 
-tag: [[Adverbs]]
+tag: [[Adverbs]], [[Adverbia]], [[Kata Keterangan]]
