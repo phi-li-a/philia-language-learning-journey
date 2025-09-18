@@ -1,4 +1,7 @@
-<small>verb [ T, L only + noun, not continuous ] | formal</small>
+<small>verb [ T, L only + noun, not continuous ] | formal
+uk  /kəmˈpraɪz/ us  /kəmˈpraɪz/
+C1
+</small>
 >[!note] Definition
 >- to have things or people as parts or members; to consist of:
 > > [!example] 

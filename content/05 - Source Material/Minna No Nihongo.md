@@ -4,7 +4,7 @@
 # 01 - INTRODUCTION
 ## I. General Features of Japanese 
 ### 1. Parts of Speech
-The Japanese language is [[Comprised]] of [[Verbs]], [[Adjectives]], [[Nouns]], [[Adverbs]], [[Conjunctions]] and [[Particles]].
+The Japanese language is [[Comprised]] of [[Verbs]], [[Adjectives]], [[Nouns]], [[Adverb]], [[Conjunctions]] and [[Particles]].
 
 >[!info]- Terjemahan
 >(CIRI KHAS BAHASA JEPANG)
