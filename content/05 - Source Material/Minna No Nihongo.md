@@ -13,7 +13,7 @@ The Japanese language is [[Comprised]] of [[Verbs]], [[Adjectives]], [[Nouns]], 
 
 ---
 ### 2. Word Order
-A [[Predicate (Grammar)]] always comes at the end of a [[Sentence (Grammar)]]. A [[Modifier]] always comes before the [[Word]] or [[Phrase (Grammar)]] to be modified.
+A [[Predicate]] always comes at the end of a [[Sentence]]. A [[Modifier]] always comes before the [[Word]] or [[Phrase (Grammar)]] to be modified.
 
 >[!info]- Terjemahan
 >**Urutan Kata**

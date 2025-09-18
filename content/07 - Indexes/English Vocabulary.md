@@ -15,8 +15,8 @@
 | [[Conjunctions]] |
 |   [[Particle]]   |
 |  [[Particles]]   |
-|                  |
-|                  |
-|                  |
+|  [[Predicate]]   |
+|   [[Sentence]]   |
+|   [[Modifier]]   |
 |                  |
 |                  |

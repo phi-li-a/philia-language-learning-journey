@@ -4,8 +4,9 @@ particle noun (GRAMMAR)
 [ C ]
 </small>
 >[!note] Definition
->- In the sentence "I tidied up the room", the adverb "up" is a particle.
+>- a word or a part of a word that has a grammatical purpose but often has little or no meaning:
 > > [!example] 
+> > - In the sentence "I tidied up the room", the adverb "up" is a particle.
 > > - A phrasal verb is a verb consisting of a verb plus a particle.
 > > - He often comes out with the wrong particle.
 
@@ -41,8 +42,9 @@ C2 [ C ]
 ><small>Partikel dalam Tata Bahasa</small>
 ><small>kata benda [dapat dihitung]</small>
 > > [!note] Definisi
-> > - Dalam kalimat "I tidied up the room" (Saya merapikan kamar), kata keterangan "up" adalah sebuah partikel.
+> > - Sebuah kata (atau bagian kata) yang berfungsi secara gramatikal, namun sering kali memiliki sedikit atau tanpa makna yang jelas.
 > > > [!example] Contoh
+> > > - Dalam kalimat "I tidied up the room" (Saya merapikan kamar), kata keterangan "up" adalah sebuah partikel.
 > > > - Sebuah phrasal verb adalah kata kerja yang terdiri dari kata kerja ditambah sebuah partikel.
 > > > - Dia sering salah menggunakan partikel.
 >
