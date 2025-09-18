@@ -201,7 +201,7 @@ The vowels [i] and [u] are [[devoiced]] and not heard when they come between voi
 ### 8. 「アクセント」(Accent The Japanese)
 language has [[pitch accent]]. That is, some moras in a word are pronounced high and others low. The words are divided into two types according to whether a word has a falling pitch or not. Words with a falling pitch are subdivided into three types according to where the fall in pitch occurs. The standard Japanese accent is characterized by the fact that the first and the second moras have different pitches, and that the pitch never rises again once it has fallen.
 #### [Types of Accent]
-![[content/03. Files/MNN3.png]]
+![[MNN3.png]]
 ### 9.「イントネーション」 Intonation
 There are three patterns. They are 1) flat, 2) rising and 3) falling. Questions are pronounced with a rising intonation. Other sentences are usually pronounced flat, but sometimes with a falling intonation. A falling intonation can express feelings such as agreement or disappointment, etc.
 
@@ -251,7 +251,7 @@ There are three patterns. They are 1) flat, 2) rising and 3) falling. Questions 
 - シ*ャ*ツ (shirt) おちゃ (tea) ぎ*ゅ*うに*ゅ*う (milk)
 - き*ょ*う (today) ぶち*ょ*う (department chief) り*ょ*こう (travel)
 
-![[content/03. Files/MNN4.png]]
+![[MNN4.png]]
 ### 6. Pronunciation of Letters Combined with や, ゆ or よ 
 佐藤 (Satō) : あした 友達と お花見 を します。 [→ flat]
 
