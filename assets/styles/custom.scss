@@ -1,0 +1,28 @@
+// quartz/assets/styles/custom.scss
+
+@font-face {
+  font-family: "UD-Digi-Kyokasho"; /* Beri nama panggilan untuk font-mu */
+  src: url("../fonts/UDDigiKyokashoStdN-Regular.otf") format("opentype"); /* Path ke file font-mu */
+  font-weight: normal;
+  font-style: normal;
+}
+
+// quartz/assets/styles/custom.scss
+// ... (setelah blok @font-face) ...
+
+// -- Terapkan font custom --
+
+// Mengganti font untuk teks biasa (body)
+body {
+  font-family: "UD-Digi-Kyokasho", sans-serif; // 'sans-serif' adalah font cadangan
+}
+
+// Mengganti font untuk judul
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "UD-Digi-Kyokasho", sans-serif;
+}
