@@ -10,62 +10,57 @@ A1 [ C ]
 > > - Some words are more difficult to spell than others.
 > > - word for What's the word for bikini in French?
 > > - find the right word It's sometimes difficult to find exactly the right word to express what you want to say.
+> > - I was fumbling for the right word.
+> > - You haven't listened to a word I've said!
+> > - Write the amount in both words and figures.
+> > - Annotated editions of Shakespeare's plays help readers to understand old words.
+> > - Cross out any words that are not on the list.
  >-  the F-word, C-word, etc.
  >  used to refer to a word, usually a rude, offensive, or embarrassing one, by saying only the first letter and not the whole word:
  > > [!example] 
 > > - You're still not allowed to say the F-word on TV in the US.
 
 
-<small>noun [C] (PUNISHMENT)
-B2
+<small>word noun (TALKING)
+B2 [ S or plural 
 </small>
 >[!note] Definition
->- a punishment given by a judge in court to a person or organization after they have been found guilty of doing something wrong:
-> > [!example] 
-> > - He got a heavy/light sentence (= he was severely/not severely punished).
-> > - The offence carries a jail/prison/life/five-year sentence.
-> > - He was given a non-custodial/suspended sentence.
->- pronounce sentence
->  (of a judge) to say officially what a punishment will be:
-> > [!example] 
-> > - pronounce sentence on The judge will pronounce sentence on the defendant this afternoon.
+>- a short discussion, or a short statement expressing a particular thing :
 
-<small>verb [ T ]   law   specialized
-uk  /ˈsen.təns/ us  /ˈsen.təns/
-B2
-</small>
->[!note] Definition
->- to decide and say officially what a punishment will be:
 > > [!example] 
-> > - He was sentenced to life imprisonment.
+> > - have a word We need to have a word (= to talk) about something.
+> > - a word with Could I have a word with you about the sales figures?
+> > - a quick word Can I have a quick word (= can I talk to you briefly)?
+> > - a quiet word Could you have a quiet word with Mike (= gently explain to him) about the problem?
+> > - want a word The manager wants a word.
+> > - a word of advice Let me give you a word of advice about how to approach the task.
+> > - a word of encouragement The parents could be heard shouting words of encouragement to their children.
+> > - a word of thanks I want to say a word of thanks to everyone who has worked so hard on this project.
+> > - She then uttered a few words of thanks to her lawyers.
 
 ---
 
 >[!info]+ Terjemahan
-> # Kalimat / Hukuman (Sentence)
-><small>Kalimat sebagai Kelompok Kata</small>
+> # Kata (Word)
+><small>Kata sebagai Unit Bahasa</small>
 ><small>kata benda [dapat dihitung]</small>
 > > [!note] Definisi
-> > - Kelompok kata, yang biasanya mengandung kata kerja, yang mengungkapkan suatu pemikiran dalam bentuk pernyataan, pertanyaan, perintah, atau seruan dan dimulai dengan huruf kapital saat ditulis.
+> > - Satu unit tunggal bahasa yang memiliki makna dan dapat diucapkan atau ditulis.
 > > > [!example] Contoh
-> > > - Dia sangat tidak sabaran dan selalu memotong pembicaraanku di tengah kalimat.
-> > > - Kesimpulanmu bagus, tapi kalimat terakhirnya terlalu panjang dan rumit.
-> > > - "Bob" adalah subjek dari kalimat 'Bob threw the ball' (Bob melempar bola).
-> > > - "'He was released from prison'" (Dia dibebaskan dari penjara) adalah kalimat pasif.
+> > > - Esai Anda tidak boleh lebih dari dua ribu kata.
+> > > - Terkadang sulit untuk menemukan kata yang tepat untuk mengungkapkan apa yang ingin Anda katakan.
+> > > - Kamu tidak mendengarkan satu kata pun yang aku ucapkan!
+> > > - uliskan jumlahnya dalam kata-kata dan angka.
+
 >
-><small>Hukuman / Vonis</small>
-><small>kata benda [dapat dihitung]</small>
+><small>Kata sebagai Pembicaraan / Ucapan</small>
+><small>kata benda [singular atau jamak]</small>
 > > [!note] Definisi
-> > - Hukuman yang diberikan oleh hakim di pengadilan kepada seseorang atau organisasi setelah mereka dinyatakan bersalah.
+> > - Diskusi singkat, atau pernyataan singkat yang mengungkapkan hal tertentu. (Penggunaan ini sering bersifat idiomatis).
 > > > [!example] Contoh
-> > > - Dia mendapat hukuman yang berat/ringan.
-> > > - Pelanggaran tersebut diancam dengan hukuman penjara seumur hidup.
-> > > - menjatuhkan hukuman (pronounce sentence): (tentang hakim) menyatakan secara resmi apa hukumannya. Contoh: "Hakim akan menjatuhkan hukuman kepada terdakwa sore ini."
->
-><small>Menghukum / Memvonis (sebagai Kata Kerja)</small>
-><small>kata kerja [transitif] khusus hukum</small>
-> > [!note] Definisi
-> > - Memutuskan dan menyatakan secara resmi apa hukumannya.
-> > > [!example] Contoh
-> > > - Dia dihukum (atau divonis) penjara seumur hidup.
->
+> > > - Bicara sebentar (have a word): Kita perlu bicara sebentar tentang sesuatu. Boleh saya bicara sebentar?
+> > > - Sepatah kata nasihat (a word of advice): Biarkan saya memberimu sepatah kata nasihat tentang cara mengerjakan tugas itu.
+> > > - Kata-kata penyemangat (words of encouragement): Para orang tua terdengar meneriakkan kata-kata penyemangat kepada anak-anak mereka.
+> > > - Sepatah kata terima kasih (a word of thanks): Saya ingin mengucapkan sepatah kata terima kasih kepada semua orang yang telah bekerja keras dalam proyek ini.
+
+Tag: [[Word]], [[Words]]

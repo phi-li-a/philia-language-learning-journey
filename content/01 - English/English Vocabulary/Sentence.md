@@ -66,4 +66,5 @@ B2
 > > - Memutuskan dan menyatakan secara resmi apa hukumannya.
 > > > [!example] Contoh
 > > > - Dia dihukum (atau divonis) penjara seumur hidup.
->
+
+tag: [[Kalimat]]

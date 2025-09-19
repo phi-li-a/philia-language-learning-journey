@@ -1,22 +1,32 @@
 
-|       Word       |
+| [[According to]] |
 | :--------------: |
-|   [[comprise]]   |
-|  [[comprised]]   |
-|     [[Verb]]     |
-|    [[Verbs]]     |
 |  [[Adjective]]   |
 |  [[Adjectives]]  |
-|     [[Noun]]     |
-|    [[Nouns]]     |
 |    [[Adverb]]    |
 |   [[Adverbs]]    |
+| [[Affirmative]]  |
+|   [[comprise]]   |
+|  [[comprised]]   |
 | [[Conjunction]]  |
 | [[Conjunctions]] |
+|   [[Inflect]]    |
+|   [[Inflects]]   |
+|   [[Modifier]]   |
+|     [[Noun]]     |
+|    [[Nouns]]     |
 |   [[Particle]]   |
 |  [[Particles]]   |
+|    [[Phrase]]    |
 |  [[Predicate]]   |
 |   [[Sentence]]   |
-|   [[Modifier]]   |
+|     [[Verb]]     |
+|    [[Verbs]]     |
+|   [[Whether]]    |
+|     [[Word]]     |
+|    [[Words]]     |
+|   [[Negative]]   |
+|     [[Past]]     |
+|                  |
 |                  |
 |                  |

@@ -13,15 +13,15 @@ The Japanese language is [[Comprised]] of [[Verbs]], [[Adjectives]], [[Nouns]], 
 
 ---
 ### 2. Word Order
-A [[Predicate]] always comes at the end of a [[Sentence]]. A [[Modifier]] always comes before the [[Word]] or [[Phrase (Grammar)]] to be modified.
+A [[Predicate]] always comes at the end of a [[Sentence]]. A [[Modifier]] always comes before the [[Word]] or [[Phrase]] to be modified.
 
 >[!info]- Terjemahan
 >**Urutan Kata**
->Partikel diletakkan pada akhir kalimat. Kata yang menerangkan diletakkan di depan kata yang diterangkan.
+>[[Partikel]] diletakkan pada akhir [[kalimat]]. Kata yang menerangkan diletakkan di depan kata yang diterangkan.
 
 ---
 ### 3. Predicate
-There are three types of predicates in Japanese: noun, verb and adjective. A predicate [[inflects]] according to whether it is (1) affirmative or negative and (2) non-past or past.
+There are three types of [[predicates]] in Japanese: noun, verb and adjective. A predicate [[inflects]] [[according to]] [[whether]] it is (1) [[affirmative]] or [[negative]] and (2) non-past or past.
 Adjectives are divided into two types according to their type of inflection. They are called い-adjectives and な-adjectives.
 In Japanese, words do not inflect for person, gender or number.
 
@@ -420,7 +420,7 @@ There are three patterns. They are 1) flat, 2) rising and 3) falling. Questions 
 - 主語《しゅご》
   [[subject]] 
 - 述語《じゅつご》
-  [[predicate]] 
+  [[quartz-4.0.8/content/01 - English/English Vocabulary/Predicate]] 
 - 目的語《もくてきご》
   [[object]] 
 - 主題《しゅだい》

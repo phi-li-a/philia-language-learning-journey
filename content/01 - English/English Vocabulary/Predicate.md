@@ -44,3 +44,4 @@ uk  /ˈpred.ɪ.keɪt/ us  /ˈpred.ɪ.keɪt/
 > > > [!example] Contoh
 > > > - Prakiraan penjualan tersebut didasarkan pada asumsi bahwa ekonomi akan tumbuh sebesar empat persen.
 
+tag: [[Predicates]]

@@ -1,15 +1,14 @@
-|        Word         |
-| :-----------------: |
-|      [[Verba]]      |
-|   [[Kata Kerja]]    |
+
 |    [[Adjektiva]]    |
-|   [[Kata Sifat]]    |
-|     [[nomina]]      |
-|   [[Kata Benda]]    |
-| [[Kata Keterangan]] |
+| :-----------------: |
 |    [[Adverbia]]     |
-|    [[Konjungsi]]    |
+|     [[Kalimat]]     |
+|   [[Kata Benda]]    |
+|   [[Kata Kerja]]    |
+| [[Kata Keterangan]] |
 | [[Kata Penghubung]] |
+|   [[Kata Sifat]]    |
+|    [[Konjungsi]]    |
+|     [[nomina]]      |
 |    [[Partikel]]     |
-|                     |
-|                     |
+|      [[Verba]]      |
