@@ -47,7 +47,7 @@ Words or phrases are often [[omitted]] if they are understood from the context. 
 
 ---
 ## II. Japanese Script
-There are three kinds of [[letters]] in Japanese: hiragana, katakana and kanji (Chinese characters). Hiragana and katakana are [[phonetic]] [[representations]] of sounds, and each letter basically [[corresponds]] to one mora (a unit of sound. See [[#III. Pronunciation of Japanese|III. Pronunciation of Japanese]]). Kanji [[convey]] meanings as well as sounds.
+There are three kinds of [[letters]] in Japanese: hiragana, katakana and kanji (Chinese characters). Hiragana and katakana are [[phonetic]] [[representations]] of sounds, and each letter basically [[corresponds]] to one mora (a unit of sound. See III. 「[[日本語]]の[[発音]]」(Pronunciation of Japanese)). Kanji [[convey]] meanings as well as sounds.
 
 In Japanese [[script]], all three types of letters are used together. Katakana are used to write foreign names and loan words. 1945 kanji letters are fixed as essential for daily use. Hiragana are used to write particles, the inflectable parts of words, etc. Other than these three types of letters, romaji (Roman letters) are sometimes used for the convenience of foreigners. You may see romaji at stations and on signboards. Below are examples of all four types of script.
 ![[MNN01.png]]
@@ -72,7 +72,7 @@ Selain itu, adakalanya huruf Latin digunakan sebagai penulisan untuk nama warga 
 
 ![[MNN03.png]]
 
-The Japanese language is based on five [[vowel]] sounds: あ (a), い (i), う (u), え (e) and お (o) (see the table). All spoken sounds are [[derived]] from these five vowels. They are used alone or are [[attached]] to either a consonant (e.g., k + a = か) or a consonant plus the semi-vowel “y” (e.g., k + y + a = きゃ). The exception to this is a special mora, ん (n), which is not followed by vowels. All of these sounds are of equal length when spoken.
+The Japanese language is based on five [[vowel]] sounds: あ (a), い (i), う (u), え (e) and お (o) (see the table). All spoken sounds are [[derived]] from these five vowels. They are used alone or are [[attached]] to [[either]] a [[consonant]] (e.g., k + a = か) or a consonant plus the semi-vowel “y” (e.g., k + y + a = きゃ). The exception to this is a special mora, ん (n), which is not followed by vowels. All of these sounds are of equal length when spoken.
 
 >**[Note 1]** A mora is a unit of sound in Japanese.
 
@@ -89,21 +89,21 @@ Vokal dalam Bahasa Jepang terdapat lima macam, yaitu あ(a), い(i), う(u), え
 >![[MNN04.png]]
 >
 
-### 2. 「長音《ちょうおん》」(Long Vowels)
-A long vowel is pronounced twice as long as the ordinary vowels あ, い, う, え and お. If you count the length of the vowel あ as one, the length of the long vowel ああ is counted as two. This means あ is one mora long, whereas ああ is two moras long.
+### 2. 「[[長音]]」(Long Vowels)
+A long vowel is [[pronounced]] twice as long as the ordinary vowels あ, い, う, え and お. If you count the length of the vowel あ as one, the length of the long vowel ああ is counted as two. This means あ is one mora long, whereas ああ is two moras long.
 
 Whether a vowel is long or not can change the meaning of the word.
 
 *examples:* 
- - おばさん (aunt) : おば*あ*さん (grandmother)
- - おじさん (uncle) : おじ*い*さん (grandfather) 
- - ゆき (snow) : ゆ*う*き (courage) 
- - え (picture) : え*え* (yes) 
- - とる (take) : と*お*る (pass) 
- - ここ (here) : こ*う*こ*う* (high school) 
- - へや (room) : へ*い*や (plain) 
- - かーど (card) タクシ*ー* (taxi)
- - ス*ー*パ*ー* (supermarket) テ*ー*プ (tape) ノ*ー*ト (notebook)
+ - [[おばさん]] (aunt) : [[おばあさん]] (grandmother)
+ - [[おじさん]] (uncle) : [[おじいさん]](grandfather) 
+ - [[ゆき]] (snow) : [[ゆうき]] (courage) 
+ - [[え]] (picture) : [[ええ]] (yes) 
+ - [[とる]] (take) : [[とおる]] (pass) 
+ - [[ここ]] (here) : [[こうこう]] (high school) 
+ - [[へや]] (room) : [[へいや]] (plain) 
+ - [[カード]] (card) [[タクシー]] (taxi)
+ - [[スーパー]] (supermarket) [[テープ]] (tape) [[ノートブック]] (notebook)
 #### [Note]
 ##### 1) How to write the long vowels in hiragana
 

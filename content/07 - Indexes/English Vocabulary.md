@@ -44,5 +44,13 @@
 |   [[Corresponds]]   |
 |     [[Convey]]      |
 |     [[Script]]      |
-|                     |
-|                     |
+|      [[Vowel]]      |
+|     [[Vowels]]      |
+|     [[Derived]]     |
+|    [[Attached]]     |
+|     [[Either]]      |
+|    [[Consonant]]    |
+|    [[Accompany]]    |
+|   [[Accompanied]]   |
+|    [[Pronounce]]    |
+|   [[Pronounced]]    |
