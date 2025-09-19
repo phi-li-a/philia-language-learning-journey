@@ -15,4 +15,7 @@
 |   [[Membubuhkan]]   |
 |     [[Subjek]]      |
 |      [[Objek]]      |
-|                     |
+|     [[Aksara]]      |
+| [[Aksara Silabis]]  |
+|    [[Ideogram]]     |
+|    [[Konjugasi]]    |

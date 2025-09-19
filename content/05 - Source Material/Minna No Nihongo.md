@@ -49,15 +49,15 @@ Words or phrases are often [[omitted]] if they are understood from the context. 
 ## II. Japanese Script
 There are three kinds of [[letters]] in Japanese: hiragana, katakana and kanji (Chinese characters). Hiragana and katakana are [[phonetic]] [[representations]] of sounds, and each letter basically [[corresponds]] to one mora (a unit of sound. See [[#III. Pronunciation of Japanese|III. Pronunciation of Japanese]]). Kanji [[convey]] meanings as well as sounds.
 
-In Japanese [[script]], all three types of letters are used together. Katakana are used to write foreign names and loan words. 1945 kanji letters are fixed as essential for daily use. Hiragana are used to write particles, the [[inflectable]] parts of words, etc. Other than these three types of letters, romaji (Roman letters) are sometimes used for the convenience of foreigners. You may see romaji at stations and on signboards. Below are examples of all four types of script.
+In Japanese [[script]], all three types of letters are used together. Katakana are used to write foreign names and loan words. 1945 kanji letters are fixed as essential for daily use. Hiragana are used to write particles, the inflectable parts of words, etc. Other than these three types of letters, romaji (Roman letters) are sometimes used for the convenience of foreigners. You may see romaji at stations and on signboards. Below are examples of all four types of script.
 ![[MNN01.png]]
 
 >[!info]- Terjemahan
 >**AKSARA BAHASA JEPANG**
 >
-Aksara bahasa Jepang terdapat tiga jenis, yaitu Hiragana, Katakana, dan Kanji. Hiragana dan Katakana adalah aksara silabis sedangkan Kanji adalah ideogram yang menunjukkan bunyi sekaligus artinya.
+[[Aksara]] bahasa Jepang terdapat tiga jenis, yaitu Hiragana, Katakana, dan Kanji. Hiragana dan Katakana adalah [[aksara silabis]] sedangkan Kanji adalah [[ideogram]] yang menunjukkan bunyi sekaligus artinya.
 >
-Bahasa Jepang biasanya ditulis bercampur dengan Hiragana, Katakana dan Kanji. Nama warga asing, nama daerah atau kata serapan dari bahasa asing ditulis dengan Katakana. Hiragana digunakan untuk penulisan partikel atau bagian konjugasi Kata Kerja dan Kata Sifat.
+Bahasa Jepang biasanya ditulis bercampur dengan Hiragana, Katakana dan Kanji. Nama warga asing, nama daerah atau kata serapan dari bahasa asing ditulis dengan Katakana. Hiragana digunakan untuk penulisan partikel atau bagian [[konjugasi]] Kata Kerja dan Kata Sifat.
 >
 Selain itu, adakalanya huruf Latin digunakan sebagai penulisan untuk nama warga asing. Penulisan dalam huruf Latin dapat dilihat pada penunjuk nama stasiun.
 >
@@ -67,8 +67,8 @@ Selain itu, adakalanya huruf Latin digunakan sebagai penulisan untuk nama warga 
 
 
 ---
-##  III. 「{日本語|にほんご}の{発音|はつおん}」(Pronunciation of Japanese)
-### 1.「 かなと拍《はく》」 (Kana and Mora)
+##  III. 「[[日本語]]の[[発音]]」(Pronunciation of Japanese)
+### 1.「 [[かな]]と[[拍]]」 (Kana and Mora)
 
 ![[MNN03.png]]
 
