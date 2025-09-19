@@ -21,8 +21,8 @@ A [[Predicate]] always comes at the end of a [[Sentence]]. A [[Modifier]] always
 
 ---
 ### 3. Predicate
-There are three types of [[predicates]] in Japanese: noun, verb and adjective. A predicate [[inflects]] [[according to]] [[whether]] it is (1) [[affirmative]] or [[negative]] and (2) non-past or past.
-Adjectives are divided into two types according to their type of inflection. They are called い-adjectives and な-adjectives.
+There are three types of [[predicates]] in Japanese: noun, verb and adjective. A predicate [[inflects]] [[according to]] [[whether]] it is (1) [[affirmative]] or [[negative]] and (2) non-past or [[past]].
+Adjectives are divided into two types according to their type of [[inflection]]. They are called い-adjectives and な-adjectives.
 In Japanese, words do not inflect for person, gender or number.
 
 >[!info]- Terjemahan
@@ -31,19 +31,19 @@ In Japanese, words do not inflect for person, gender or number.
 
 ---
 ### 4. Particle
-A particle is used to show the grammatical relation between words, to show the speaker's intention or to connect sentences.
+A particle is used to show the [[grammatical]] relation between words, to show the speaker's intention or to connect sentences.
 
 >[!info]- Terjemahan
 >**Partikel**
->Pada belakang kata atau kalimat dipakai partikel. Partikel menunjukkan hubungan antara kata dan kata, atau berfungsi untuk membubuhkan berbagai arti.
+>Pada belakang kata atau kalimat dipakai partikel. Partikel menunjukkan hubungan antara kata dan kata, atau berfungsi untuk [[membubuhkan]] berbagai arti.
 
 ---
 ### 5. Omission
-Words or phrases are often [[omitted]] if they are understood from the context. Even the [[Subject (Grammar)]] and [[Object (Grammar)]] of a sentence are often omitted.
+Words or phrases are often [[omitted]] if they are understood from the context. Even the [[Subject]] and [[Object]] of a sentence are often omitted.
 
 >[!info]- Terjemahan
 >**Penghilangan**
->Subjek atau objek kadang-kadang dihilangkan jika konteks kalimat dapat dipahami.
+>[[Subjek]] atau [[objek]] kadang-kadang dihilangkan jika konteks kalimat dapat dipahami.
 
 ---
 ## II. Japanese Script
@@ -418,11 +418,11 @@ There are three patterns. They are 1) flat, 2) rising and 3) falling. Questions 
 - 形容詞文《けいようしぶん》
   [[adjective (predicate) sentence]]
 - 主語《しゅご》
-  [[subject]] 
+  [[Subject]] 
 - 述語《じゅつご》
   [[quartz-4.0.8/content/01 - English/English Vocabulary/Predicate]] 
 - 目的語《もくてきご》
-  [[object]] 
+  [[Object]] 
 - 主題《しゅだい》
   [[topic]]
 - 肯定《こうてい》

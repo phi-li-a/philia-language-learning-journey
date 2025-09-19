@@ -1,32 +1,48 @@
 
-| [[According to]] |
-| :--------------: |
-|  [[Adjective]]   |
-|  [[Adjectives]]  |
-|    [[Adverb]]    |
-|   [[Adverbs]]    |
-| [[Affirmative]]  |
-|   [[comprise]]   |
-|  [[comprised]]   |
-| [[Conjunction]]  |
-| [[Conjunctions]] |
-|   [[Inflect]]    |
-|   [[Inflects]]   |
-|   [[Modifier]]   |
-|     [[Noun]]     |
-|    [[Nouns]]     |
-|   [[Particle]]   |
-|  [[Particles]]   |
-|    [[Phrase]]    |
-|  [[Predicate]]   |
-|   [[Sentence]]   |
-|     [[Verb]]     |
-|    [[Verbs]]     |
-|   [[Whether]]    |
-|     [[Word]]     |
-|    [[Words]]     |
-|   [[Negative]]   |
-|     [[Past]]     |
-|                  |
-|                  |
-|                  |
+|  [[According to]]   |
+| :-----------------: |
+|    [[Adjective]]    |
+|   [[Adjectives]]    |
+|     [[Adverb]]      |
+|     [[Adverbs]]     |
+|   [[Affirmative]]   |
+|    [[comprise]]     |
+|    [[comprised]]    |
+|   [[Conjunction]]   |
+|  [[Conjunctions]]   |
+|     [[Inflect]]     |
+|    [[Inflects]]     |
+|    [[Modifier]]     |
+|      [[Noun]]       |
+|      [[Nouns]]      |
+|    [[Particle]]     |
+|    [[Particles]]    |
+|     [[Phrase]]      |
+|    [[Predicate]]    |
+|    [[Sentence]]     |
+|      [[Verb]]       |
+|      [[Verbs]]      |
+|     [[Whether]]     |
+|      [[Word]]       |
+|      [[Words]]      |
+|    [[Negative]]     |
+|      [[Past]]       |
+|   [[Inflection]]    |
+|   [[Grammatical]]   |
+|      [[Omit]]       |
+|     [[Omitted]]     |
+|     [[Subject]]     |
+|    [[Subjects]]     |
+|     [[Object]]      |
+|     [[Objects]]     |
+|     [[Letter]]      |
+|     [[Letters]]     |
+|    [[Phonetic]]     |
+| [[Representation]]  |
+| [[Representations]] |
+|   [[Correspond]]    |
+|   [[Corresponds]]   |
+|                     |
+|                     |
+|                     |
+|                     |

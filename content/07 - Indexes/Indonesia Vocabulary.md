@@ -12,3 +12,7 @@
 |     [[nomina]]      |
 |    [[Partikel]]     |
 |      [[Verba]]      |
+|   [[Membubuhkan]]   |
+|     [[Subjek]]      |
+|      [[Objek]]      |
+|                     |

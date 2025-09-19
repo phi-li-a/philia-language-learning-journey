@@ -3,8 +3,8 @@
 >[!note] Definisi
 > - kesatuan ujar yang mengungkapkan suatu konsep pikiran dan perasaan;
 > - perkataan;
-<small>Ling (linguistik)
-</small>
+
+<small>Ling (linguistik)</small>
 >[!note] Definisi
 > - satuan bahasa yang secara relatif berdiri sendiri, mempunyai pola intonasi final dan secara aktual ataupun potensial terdiri atas klausa;
 
