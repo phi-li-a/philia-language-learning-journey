@@ -1,0 +1,1 @@
+word usually written using kana alone
