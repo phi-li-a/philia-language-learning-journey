@@ -1,8 +1,8 @@
-<small>verb [ I ]
+>[!note] Definition
+>1. verb [ I ]
 uk  /ˌkɒr.ɪˈspɒnd/ us  /ˌkɔːr.əˈspɑːnd/
 correspond verb [I] (MATCH)
-B2</small>
->[!note] Definition
+B2
 >- to match or be similar or equal:
 > > [!example] 
 > > - correspond to The money I've saved corresponds roughly to the amount I need for my plane ticket.
@@ -13,11 +13,8 @@ B2</small>
 > > - That is not much of a punishment - it doesn't correspond with the seriousness of the offence.
 > > - Her reply corresponded with yours, so I suppose I must believe you.
 > > - My views on politics seldom correspond with those of my father.
-
-<small>correspond verb [I] (WRITE)
+>2. correspond verb [I] (WRITE)
 B2 formal
-</small>
->[!note] Definition
 >- to communicate by writing a letter or sending an email:
 > > [!example] 
 > > - correspond with I've been corresponding with several experts in the field.

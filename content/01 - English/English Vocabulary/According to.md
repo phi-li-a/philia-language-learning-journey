@@ -1,18 +1,15 @@
-<small>preposition
-uk  /əˈkɔː.dɪŋ ˌtuː/ us  /əˈkɔːr.dɪŋ ˌtuː/
-according to preposition (OPINION)
-B1
-</small>
+
 >[!note] Definition
+>1. preposition
+>   uk  /əˈkɔː.dɪŋ ˌtuː/ us  /əˈkɔːr.dɪŋ ˌtuː/
+>   according to preposition (OPINION)
+>   B1
 >- as stated by:
 > > [!example] 
 > > - According to Sarah they're not getting on very well at the moment.
 > > - According to our records you owe us $130.
-
-<small>according to preposition (METHOD)
+>2. according to preposition (METHOD)
 B2
-</small>
->[!note] Definition
 >- in a way that agrees with:
 > > [!example] 
 > > - Students are all put in different groups according to their ability.

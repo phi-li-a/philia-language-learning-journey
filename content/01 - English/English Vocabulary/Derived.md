@@ -1,9 +1,6 @@
-<small>
-adjective
-uk  /dɪˈraɪvd/ us 
-</small>
-
 >[!note] Definition
+>1. adjective
+uk  /dɪˈraɪvd/ us 
 >- coming from or caused by something else:
 > > [!example] 
 > > - derived products

@@ -1,9 +1,9 @@
-<small>verb [ I ]
+>[!note] Definition
+>1. verb [ I ]
 verb [ T ]   formal
 uk  /kənˈveɪ/ us  /kənˈveɪ/
 convey verb [T] (COMMUNICATE)
-C1</small>
->[!note] Definition
+C1
 >- to express a thought, feeling, or idea so that it is understood by other people:
 > > [!example] 
 > > - His poetry conveys a great sense of religious devotion.
@@ -15,10 +15,7 @@ C1</small>
 > > - No report can convey the unspeakable suffering that this war has caused.
 > > - Words alone cannot convey the untold misery endured by people in these refugee camps.
 > > - With a single wag of her finger she managed to convey her total disapproval.
-
-<small>convey verb [T] (TAKE)
-</small>
->[!note] Definition
+>2. convey verb [T] (TAKE)
 >- to take or carry someone or something to a particular place:
 > > [!example] 
 > > - The goods are usually conveyed by rail.

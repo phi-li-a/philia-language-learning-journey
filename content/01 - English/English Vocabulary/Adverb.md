@@ -1,8 +1,7 @@
-<small>noun [ C ]
+>[!note] Definition
+>1. noun [ C ]
 uk  /ˈæd.vɜːb/ us  /ˈæd.vɝːb/
 A2
-</small>
->[!note] Definition
 >- a word that describes or gives more information about a verb, adjective, adverb, or phrase:
 > > [!example] 
 > > - In the phrase "she smiled cheerfully", the word "cheerfully" is an adverb.

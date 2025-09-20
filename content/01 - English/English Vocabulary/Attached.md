@@ -1,9 +1,6 @@
-<small>
-adjective
-uk  /əˈtætʃt/ us  /əˈtætʃt/
-</small>
-
 >[!note] Definition
+>1. adjective
+uk  /əˈtætʃt/ us  /əˈtætʃt/
 >-  be attached to someone/something
 >-  to like someone or something very much:
 > > [!example] 

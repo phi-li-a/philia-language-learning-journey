@@ -1,7 +1,7 @@
-<small>noun [ C ]
-uk  /ˈædʒ.ek.tɪv/ us  /ˈædʒ.ek.tɪv/
-A2</small>
 >[!note] Definition
+>1. noun [ C ]
+uk  /ˈædʒ.ek.tɪv/ us  /ˈædʒ.ek.tɪv/
+A2
 >- a word that describes a noun or pronoun:
 > > [!example] 
 > > - "Big", "boring", "purple", and "obvious" are all adjectives.

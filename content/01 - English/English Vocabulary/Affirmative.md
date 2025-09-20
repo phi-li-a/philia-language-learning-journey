@@ -1,15 +1,13 @@
-<small>adjective
-uk  /əˈfɜː.mə.tɪv/ us  /əˈfɝː.mə.t̬ɪv/
+<small>
 </small>
 >[!note] Definition
+>1. adjective
+uk  /əˈfɜː.mə.tɪv/ us  /əˈfɝː.mə.t̬ɪv/
 >- relating to a statement that shows agreement or says "yes":
 > > [!example] 
 > > - an affirmative answer/response
-
-<small>noun [ C or U ]
-uk  /əˈfɜː.mə.tɪv/ us  /əˈfɝː.mə.t̬ɪv/
-</small>
->[!note] Definition
+> 2. noun [ C or U ]
+>    uk  /əˈfɜː.mə.tɪv/ us  /əˈfɝː.mə.t̬ɪv/
 >- a word or statement that shows agreement or says "yes":
 > > [!example] 
 > > - in the affirmative He replied in the affirmative (= he said "yes").
