@@ -54,3 +54,7 @@
 |   [[Accompanied]]   |
 |    [[Pronounce]]    |
 |   [[Pronounced]]    |
+|     [[Pronoun]]     |
+|      [[Kana]]       |
+|   [[Colloquial]]    |
+|    [[Euphemism]]    |
