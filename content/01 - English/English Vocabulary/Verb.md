@@ -1,8 +1,7 @@
-<small>noun [ C ]
+>[!note] Definition
+>1. noun [ C ]
 uk  /vɜːb/ us  /vɝːb/
 A2
-</small>
->[!note] Definition
 >- a word or phrase that describes an action, condition, or experience:
 > > [!example] 
 > > - The words "run", "keep", and "feel" are all verbs.

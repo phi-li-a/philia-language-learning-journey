@@ -1,8 +1,7 @@
-<small>conjunction
+>[!note] Definition
+>1. conjunction
 uk  /ˈweð.ər/ us  /ˈweð.ɚ/
 B1
-</small>
->[!note] Definition
 >- (used especially in reporting questions and expressing doubts) if, or not:
 > > [!example] 
 > > - I wasn't sure whether you'd like it.
@@ -21,18 +20,15 @@ B1
 
 >[!info]+ Terjemahan
 > # Apakah / Entah (Whether)
-><small>konjungsi / kata hubung</small>
-><small>Untuk Menyatakan Keraguan atau Pilihan</small>
 > > [!note] Definisi
+> > 1. konjungsi / kata hubungUntuk Menyatakan Keraguan atau Pilihan
 > > - Digunakan untuk melaporkan pertanyaan atau menyatakan keraguan; apakah.
 > > > [!example] Contoh
 > > > - Saya tidak yakin apakah kamu akan menyukainya.
 > > > - Dia bertanya kepada saya apakah saya tertarik untuk bekerja dengannya.
 > > > - Saya sedang berpikir apakah akan memesan ikan atau daging.
 > > > - apakah... atau tidak (whether or not): Semuanya tergantung pada apakah dia punya waktu atau tidak.
->
-><small>Untuk Menyatakan Dua Kemungkinan</small>
->
+> > 2. Untuk Menyatakan Dua Kemungkinan
 > > - Digunakan untuk memperkenalkan dua kemungkinan atau lebih, di mana hasilnya tidak menjadi masalah; baik... maupun... atau entah... atau....
 > > > [!example] Contoh
 > > > - Pokoknya, itu cerita yang bagus, entah itu benar atau tidak.

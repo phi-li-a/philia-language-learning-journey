@@ -23,20 +23,17 @@ B2 formal
 
 >[!info]+ Terjemahan
 > # Sesuai / Berkorespondensi (Correspond)
-><small>Sebagai Kecocokan (Sesuai / Setara)</small>
-><small>kata kerja [intransitif]
-</small>
 > > [!note] Definisi
+> > 1. Sebagai Kecocokan (Sesuai / Setara)
+>kata kerja [intransitif]
 > > - Cocok, mirip, atau setara dengan sesuatu; sesuai dengan.
 > > > [!example] Contoh
 > > > - Sesuai dengan (correspond to): Uang yang saya tabung kira-kira sesuai dengan jumlah yang saya butuhkan untuk tiket pesawat.
 > > > - FBI Amerika setara dengan MI5 Inggris.
 > > > - Cocok dengan (correspond with): Ceritanya tentang apa yang terjadi malam itu tidak cocok dengan versi saksi.
 > > > - Pandangan politik saya jarang sesuai dengan pandangan ayah saya.
->
-><small>Sebagai Komunikasi Tertulis (Berkorespondensi)</small>
-><small>kata kerja [intransitif] formal</small>
-> > [!note] Definisi
+> > 2. Sebagai Komunikasi Tertulis (Berkorespondensi)
+>kata kerja [intransitif] formal
 > > - Berkomunikasi dengan menulis surat atau mengirim email; berkorespondensi atau surat-menyurat.
 > > > [!example] Contoh
 > > > - Berkorespondensi dengan (correspond with): Saya telah berkorespondensi dengan beberapa ahli di bidang ini.

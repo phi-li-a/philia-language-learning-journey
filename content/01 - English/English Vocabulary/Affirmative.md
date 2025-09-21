@@ -18,14 +18,12 @@ uk  /əˈfɜː.mə.tɪv/ us  /əˈfɝː.mə.t̬ɪv/
 
 >[!info]+ Terjemahan
 > # Afirmatif / Iya (Affirmative)
-><small>Sebagai Kata Sifat</small>
 > > [!note] Definisi
+> > 1. Sebagai Kata Sifat
 > > - Berkaitan dengan pernyataan yang menunjukkan persetujuan atau mengatakan "iya".
 > > > [!example] Contoh
 > > > - Jawaban/respons yang mengiyakan (afirmatif).
->
-><small>Sebagai Kata Benda</small>
-> > [!note] Definisi
+> > 2. Sebagai Kata Benda
 > > - Sebuah kata atau pernyataan yang menunjukkan persetujuan atau mengatakan "iya".
 > > > [!example] Contoh
 > > > - Mengiyakan (in the affirmative): Dia menjawab dengan mengiyakan (= dia berkata "iya").

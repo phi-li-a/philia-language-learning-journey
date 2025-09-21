@@ -1,9 +1,8 @@
-<small>noun
+>[!note] Definition
+>1. noun
 uk  /wɜːd/ us  /wɝːd/
 word noun (LANGUAGE UNIT)
 A1 [ C ]
-</small>
->[!note] Definition
 >- a single unit of language that has meaning and can be spoken or written:
 > > [!example] 
 > > - Your essay should be no more than two thousand words long.
@@ -18,15 +17,10 @@ A1 [ C ]
  >-  the F-word, C-word, etc.
  >  used to refer to a word, usually a rude, offensive, or embarrassing one, by saying only the first letter and not the whole word:
  > > [!example] 
-> > - You're still not allowed to say the F-word on TV in the US.
-
-
-<small>word noun (TALKING)
+> > You're still not allowed to say the F-word on TV in the US.
+>2. word noun (TALKING)
 B2 [ S or plural 
-</small>
->[!note] Definition
 >- a short discussion, or a short statement expressing a particular thing :
-
 > > [!example] 
 > > - have a word We need to have a word (= to talk) about something.
 > > - a word with Could I have a word with you about the sales figures?
@@ -42,20 +36,17 @@ B2 [ S or plural
 
 >[!info]+ Terjemahan
 > # Kata (Word)
-><small>Kata sebagai Unit Bahasa</small>
-><small>kata benda [dapat dihitung]</small>
 > > [!note] Definisi
+> > 1. Kata sebagai Unit Bahasa
+> >    kata benda [dapat dihitung]
 > > - Satu unit tunggal bahasa yang memiliki makna dan dapat diucapkan atau ditulis.
 > > > [!example] Contoh
 > > > - Esai Anda tidak boleh lebih dari dua ribu kata.
 > > > - Terkadang sulit untuk menemukan kata yang tepat untuk mengungkapkan apa yang ingin Anda katakan.
 > > > - Kamu tidak mendengarkan satu kata pun yang aku ucapkan!
 > > > - uliskan jumlahnya dalam kata-kata dan angka.
-
->
-><small>Kata sebagai Pembicaraan / Ucapan</small>
-><small>kata benda [singular atau jamak]</small>
-> > [!note] Definisi
+> > 2. Kata sebagai Pembicaraan / Ucapan
+> >    kata benda [singular atau jamak]
 > > - Diskusi singkat, atau pernyataan singkat yang mengungkapkan hal tertentu. (Penggunaan ini sering bersifat idiomatis).
 > > > [!example] Contoh
 > > > - Bicara sebentar (have a word): Kita perlu bicara sebentar tentang sesuatu. Boleh saya bicara sebentar?

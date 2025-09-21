@@ -25,28 +25,24 @@ C2 [ C or U ]
 
 >[!info]+ Terjemahan
 > # Konjungsi / Kata Hubung (Conjunction)
-><small>kata benda Konjungsi sebagai (Kata Penghubung)</small>
-><small>kata benda [dapat dihitung]</small>
-><small>(Formal: conjuncture)</small>
 > > [!note] Definisi
+> > 1. kata benda Konjungsi sebagai (Kata Penghubung)
+>kata benda [dapat dihitung]
+>(Formal: conjuncture)
 > > - Situasi di mana berbagai peristiwa atau kondisi bergabung atau terjadi bersamaan.
 > > > [!example] Contoh
 > > > - Konjungsi 'although' (meskipun) menggabungkan dua klausa dalam kalimat "He left, although I begged him not to." (Dia pergi, meskipun aku memohonnya untuk tidak pergi).
 > > > - Saat Anda menulis serangkaian kata benda atau kata sifat, seperti 'purple, green and blue' (ungu, hijau, dan biru), Anda menggunakan konjungsi sebelum kata terakhir, bukan tanda koma.
->
-><small>Konjungsi sebagai (Gabungan)</small>
-><small>kata benda [dapat dihitung atau tidak dapat dihitung]</small>
-><small>(Singkatan tertulis: conj)</small>
-> > [!note] Definisi
+> > 2. Konjungsi sebagai (Gabungan)
+kata benda [dapat dihitung atau tidak dapat dihitung]
+(Singkatan tertulis: conj)
 > > - Sebuah kata seperti 'and' (dan), 'but' (tetapi), 'while' (sementara), atau 'although' (meskipun) yang menghubungkan kata, frasa, dan klausa dalam sebuah kalimat.
 > > > [!example] Contoh
 > > > - Gabungan keadaan yang tidak menguntungkan menyebabkan kejatuhannya.
 > > > - Ada tim penulis yang bekerja bersama-sama (in conjunction) dalam mengerjakan buku tersebut.
->
-><small>Konjungsi dalam Astrologi</small>
-><small>kata benda [dapat dihitung atau tidak dapat dihitung] khusus</small>
-><small>(Formal: conjuncture)</small>
-> > [!note] Definisi
+> > 3. Konjungsi dalam Astrologi
+>kata benda [dapat dihitung atau tidak dapat dihitung] khusus
+>(Formal: conjuncture)
 > > - Dalam astrologi, situasi di mana dua planet tampak berada di bagian langit yang sama jika dilihat dari Bumi.
 > > > [!example] Contoh
 > > > - Mars dan Venus akan berada dalam konjungsi sempurna pada tanggal 1 September.

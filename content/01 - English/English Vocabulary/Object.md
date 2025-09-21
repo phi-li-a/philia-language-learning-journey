@@ -1,9 +1,8 @@
-<small>noun
+>[!note] Definition
+>1. noun
 uk  /ˈɒb.dʒekt/ us  /ˈɑːb.dʒekt/
 object noun (THING)
 B1 [ C ]
-</small>
->[!note] Definition
 >- a thing that you can see or touch but that is not usually a living animal, plant, or person:
 > > [!example] 
 > > - a solid/material/physical object
@@ -14,13 +13,9 @@ B1 [ C ]
 > > - Make sure you bend your knees when you're picking up heavy objects.
 > > - Boxwood is used for making small carved objects and tool handles.
 > > - I like objects to be both functional and aesthetically pleasing.
-
-
-<small>object noun (GRAMMAR)
+> 2. object noun (GRAMMAR)
 B1 [ C ]   language   specialized
 (written abbreviation obj)
-</small>
->[!note] Definition
 >- a noun or noun phrase that is affected by the action of a verb or that follows a preposition:
 > > [!example] 
 > > - object of In the sentence "I like ice cream", "ice cream" is the object of the verb "like".
@@ -31,22 +26,19 @@ B1 [ C ]   language   specialized
 
 >[!info]+ Terjemahan
 > # Objek / Benda (Object)
-
-><small>Objek sebagai Benda</small>
-><small>kata benda [dapat dihitung]</small>
 > > [!note] Definisi
+> > 1. Objek sebagai Benda
+>kata benda [dapat dihitung]
 > > - Sesuatu yang dapat Anda lihat atau sentuh tetapi biasanya bukan hewan hidup, tumbuhan, atau orang; benda.
 > > > [!example] Contoh
 > > > - Benda padat/material/fisik.
 > > > - Beberapa orang melaporkan melihat objek (benda) aneh di langit.
 > > > - Pastikan Anda menekuk lutut saat mengangkat benda-benda berat.
 > > > - Saya suka objek (benda) yang fungsional sekaligus indah secara estetika.
->
-><small>Objek dalam Tata Bahasa</small>
-><small>kata benda [dapat dihitung]</small>
-><small>khusus bahasa</small>
-><small>(Singkatan tertulis: obj)</small>
-> > [!note] Definisi
+> > 2. Objek dalam Tata Bahasa
+kata benda [dapat dihitung]
+khusus bahasa
+(Singkatan tertulis: obj)
 > > - Kata benda atau frasa kata benda yang dikenai tindakan oleh kata kerja (verba) atau yang mengikuti sebuah preposisi.
 > > > [!example] Contoh
 > > > - Objek dari: Dalam kalimat "I like ice cream" (Saya suka es krim), "ice cream" adalah objek dari kata kerja "like".

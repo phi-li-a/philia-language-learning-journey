@@ -25,9 +25,9 @@ C1
 
 >[!info]+ Terjemahan
 > # Menyampaikan / Mengangkut (Convey)
-><small>kata kerja [transitif] formal</small>
-><small>Sebagai Komunikasi (Menyampaikan)</small>
 > > [!note] Definisi
+> > 1. kata kerja [transitif] formal
+>Sebagai Komunikasi (Menyampaikan)
 > > - Mengungkapkan pikiran, perasaan, atau ide sehingga dapat dipahami oleh orang lain; menyampaikan.
 > > > [!example] Contoh
 > > > - Puisinya menyampaikan rasa pengabdian religius yang mendalam.
@@ -35,10 +35,7 @@ C1
 > > > - Saya mencoba menyampaikan dalam pidato saya betapa berterima kasihnya kami semua atas bantuannya.
 > > > - Anda tidak ingin memberikan kesan bahwa kami tidak tertarik.
 > > > - Kata-kata saja tidak dapat menggambarkan penderitaan tak terhingga yang dialami orang-orang di kamp pengungsian ini.
->
->
-><small>Sebagai Transportasi (Membawa / Mengangkut)</small>
-> > [!note] Definisi
+> > 2. Sebagai Transportasi (Membawa / Mengangkut)
 > > - Mengambil atau membawa seseorang atau sesuatu ke tempat tertentu.
 > > > [!example] Contoh
 > > > - Barang-barang tersebut biasanya diangkut melalui kereta api.

@@ -1,7 +1,6 @@
-<small>noun [ C ]   language   specialized
-uk  /ˈmɒd.ɪ.faɪ.ər/ us  /ˈmɑː.də.faɪ.ɚ/
-</small>
 >[!note] Definition
+>1. noun [ C ]   language   specialized
+uk  /ˈmɒd.ɪ.faɪ.ər/ us  /ˈmɑː.də.faɪ.ɚ/
 >- a word or phrase that is used with another word or phrase to limit or add to its meaning:
 > > [!example] 
 > > - In "safety barrier" the noun "safety" is being used as a modifier.

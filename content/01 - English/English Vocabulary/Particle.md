@@ -1,34 +1,25 @@
-<small>noun
+>[!note] Definition
+>1. noun
 uk  /ˈpɑː.tɪ.kəl/ us  /ˈpɑːr.t̬ə.kəl/
 particle noun (GRAMMAR)
 [ C ]
-</small>
->[!note] Definition
 >- a word or a part of a word that has a grammatical purpose but often has little or no meaning:
 > > [!example] 
 > > - In the sentence "I tidied up the room", the adverb "up" is a particle.
 > > - A phrasal verb is a verb consisting of a verb plus a particle.
 > > - He often comes out with the wrong particle.
-
-<small>particle noun (SMALL PIECE)
+> 2. particle noun (SMALL PIECE)
 C2 [ C ]
-</small>
->[!note] Definition
 >- an extremely small piece of something such as dust, dirt, or sand:
 > > [!example] 
 > > - Dust particles must have got into the motor.
 > > - If feels as though particles of sand are scratching the surface of your eyes.
 > > - smoke particles
-
-<small>[ C ]   physics   specialized
-</small>
->[!note] Definition
+> 3. [ C ]   physics   specialized
 >- an extremely small piece of matter, that together with others makes up an atom :
 > > [!example] 
 > > - Electrons are atomic particles.
-
-<small>[ S ]
-</small>
+> 4. [ S ]
 >[!note] Definition
 >- a very small amount of something:
 > > [!example] 
@@ -38,37 +29,32 @@ C2 [ C ]
 
 >[!info]+ Terjemahan
 > # Partikel (Particle)
-><small>kata benda</small>
-><small>Partikel dalam Tata Bahasa</small>
-><small>kata benda [dapat dihitung]</small>
 > > [!note] Definisi
+> > 1. kata benda
+>Partikel dalam Tata Bahasa
+>kata benda [dapat dihitung]
 > > - Sebuah kata (atau bagian kata) yang berfungsi secara gramatikal, namun sering kali memiliki sedikit atau tanpa makna yang jelas.
 > > > [!example] Contoh
 > > > - Dalam kalimat "I tidied up the room" (Saya merapikan kamar), kata keterangan "up" adalah sebuah partikel.
 > > > - Sebuah phrasal verb adalah kata kerja yang terdiri dari kata kerja ditambah sebuah partikel.
 > > > - Dia sering salah menggunakan partikel.
->
-><small>Partikel sebagai Bagian Kecil</small>
-><small>kata benda [dapat dihitung]</small>
-> > [!note] Definisi
+> > 2. Partikel sebagai Bagian Kecil
+>kata benda [dapat dihitung]
 > > - Bagian yang sangat kecil dari sesuatu seperti debu, kotoran, atau pasir.
 > > > [!example] Contoh
 > > > - Partikel debu pasti masuk ke dalam mesinnya.
 > > > - Rasanya seolah-olah partikel-partikel pasir menggores permukaan mata Anda.
 > > > - partikel asap
->
-><small>Partikel dalam Fisika</small>
-><small>kata benda [dapat dihitung] khusus fisika</small>
-> > [!note] Definisi
+> > >   
+> > 3. Partikel dalam Fisikakata benda [dapat dihitung] khusus fisika
 > > - Bagian materi yang sangat kecil, yang bersama dengan bagian lainnya membentuk sebuah atom.
 > > > [!example] Contoh
-> > > - Elektron adalah partikel atom.
->
-><small>Partikel sebagai Jumlah Kecil</small>
-><small>kata benda [singular]</small>
-> > [!note] Definisi
+> > > Elektron adalah partikel atom.
+> >
+> > 4. Partikel sebagai Jumlah Kecil
+> >    kata benda [singular]
 > > - Jumlah yang sangat kecil dari sesuatu.
 > > > [!example] Contoh
-> > > - Dia tidak mau memberiku informasi sedikit pun (a particle of information) tentang apa yang telah dilakukannya.
+> > > Dia tidak mau memberiku informasi sedikit pun (a particle of information) tentang apa yang telah dilakukannya.
 
 tag: [[Particles]], [[Partikel]]

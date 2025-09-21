@@ -22,21 +22,17 @@ B2
 
 >[!info]+ Terjemahan
 > # Menurut / Sesuai dengan (According to)
-><small>Sebagai Ungkapan Pendapat</small>
 > > [!note] Definisi
+> > 1. Sebagai Ungkapan Pendapat
 > > - Seperti yang dinyatakan oleh; menurut.
 > > > [!example] Contoh
 > > > - Menurut Sarah, hubungan mereka sedang tidak baik-baik saja saat ini.
 > > > - Menurut catatan kami, Anda berutang sebesar $130 kepada kami.
->
-><small>Sebagai Metode atau Cara</small>
-> > [!note] Definisi
+> > 2. Sebagai Metode atau Cara
 > > - Dengan cara yang selaras atau cocok dengan; sesuai dengan.
 > > > [!example] Contoh
 > > > - Siswa-siswi ditempatkan di kelompok yang berbeda sesuai dengan kemampuan mereka.
->
-><small>Frasa Khusus</small>
-> > [!note] Definisi
+> > 3. Frasa Khusus
 > > - Sesuai rencana (according to plan)
 > >   Sesuatu yang terjadi seperti yang diharapkan.
 > > > [!example] Contoh

@@ -1,9 +1,8 @@
-<small>noun [ C ]
+>[!note] Definition
+>1. noun [ C ]
 uk  /ˈsʌb.dʒekt/ us  /ˈsʌb.dʒekt/
 subject noun [C] (AREA OF DISCUSSION)
 B1
-</small>
->[!note] Definition
 >- the thing that is being discussed, considered, or studied:
 > > [!example] 
 > > - Our subject for discussion is homelessness.
@@ -15,12 +14,8 @@ B1
 > > - The school offers courses in every subject imaginable.
 > > - She's got some very interesting things to say on the subject.
 > > - Food, like sex, is a subject of almost universal interest.
-
-
-<small>subject noun [C] (GRAMMAR)
+>2. subject noun [C] (GRAMMAR)
 B1 language   specialized
-</small>
->[!note] Definition
 >- the person or thing that performs the action of a verb, or is joined to a description by a verb:
 > > [!example] 
 > > - "Bob" is the subject of the sentence "Bob threw the ball."
@@ -31,19 +26,17 @@ B1 language   specialized
 
 >[!info]+ Terjemahan
 > # Subjek / Topik (Subject)
-><small>Subjek sebagai Topik Pembahasan</small>
-><small>kata benda [dapat dihitung]</small>
 > > [!note] Definisi
+> > 1. Subjek sebagai Topik Pembahasan
+> >    kata benda [dapat dihitung]
 > > - Hal yang sedang didiskusikan, dipertimbangkan, atau dipelajari; topik.
 > > > [!example] Contoh
 > > > - Topik (atau subjek) diskusi kita adalah tunawisma.
 > > > - Dia telah membuat serangkaian film dokumenter mengenai topik hubungan keluarga.
 > > > - Jumlah pesawat yang terbang di atas kota telah menjadi subjek (penyebab) kekhawatiran sejak musim panas lalu.
 > > > - Dia punya beberapa hal yang sangat menarik untuk dibicarakan mengenai topik tersebut.
->
-><small>Subjek dalam Tata Bahasa</small>
-><small>kata benda [dapat dihitung] khusus bahasa</small>
-> > [!note] Definisi
+> > 2. Subjek dalam Tata Bahasa
+> >    kata benda [dapat dihitung] khusus bahasa
 > > - Orang atau benda yang melakukan tindakan dari suatu kata kerja (verba), atau dihubungkan ke sebuah deskripsi oleh suatu kata kerja.
 > > > [!example] Contoh
 > > > - "Bob" adalah subjek dari kalimat "Bob threw the ball." (Bob melempar bola).

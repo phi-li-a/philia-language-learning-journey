@@ -1,9 +1,8 @@
-<small>verb [ T ]
+>[!note] Definition
+>1. verb [ T ]
 uk  /əʊˈmɪt/ /əˈmɪt / us  /oʊˈmɪt/
 -tt-
 C1
-</small>
->[!note] Definition
 >- to fail to include or do something:
 > > [!example] 
 > > - She was omitted from the list of contributors to the report.

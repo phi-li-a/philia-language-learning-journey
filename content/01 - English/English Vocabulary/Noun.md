@@ -1,8 +1,7 @@
-<small>noun [ C ]
+>[!note] Definition
+>1. noun [ C ]
 uk  /naʊn/ us  /naʊn/
 A2
-</small>
->[!note] Definition
 >- a word that refers to a person, place, thing, event, substance, or quality:
 > > [!example] 
 > > - 'Doctor', 'coal', and 'beauty' are all nouns.

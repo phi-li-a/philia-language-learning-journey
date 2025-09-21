@@ -1,10 +1,8 @@
-<small>
-adverb
-uk  /ˈaɪ.ðər/ /ˈiː.ðər/ us  /ˈiː.ðɚ/ /ˈaɪ.ðɚ/
-B1
-</small>
 
 >[!note] Definition
+>1. adverb
+uk  /ˈaɪ.ðər/ /ˈiː.ðər/ us  /ˈiː.ðɚ/ /ˈaɪ.ðɚ/
+B1
 >-  used in negative sentences instead of "also" or "too":
 > > [!example] 
 > > - "I've never been to the States." "I haven't either."
@@ -13,15 +11,11 @@ B1
 > > - We certainly don't lead a life of luxury but we're not poor either.
 > > - "And the dress that you bought me doesn't fit either!" she shouted as she walked off.
 > > - Actually I'm pleased you don't want to go, because I don't either.
-> > - I'm not allowed another piece of cake, so you're not either!
-
-<small>
-determiner, pronoun, conjunction
+> > - I'm not allowed another piece of cake, so you're not either.
+> >   
+> 2. determiner, pronoun, conjunction
 uk  /ˈaɪ.ðər/ /ˈiː.ðər/ us  /ˈiː.ðɚ/ /ˈaɪ.ðɚ/
 B1
-</small>
-
->[!note] Definition
 >-  used when referring to a choice between two possibilities:
 > > [!example] 
 > > - Either candidate would be ideal for the job.
@@ -35,17 +29,14 @@ B1
 
 >[!info]+ Terjemahan
 > # Juga / Salah Satu (Either)
-><small>Sebagai Adverbia (dalam Kalimat Negatif)</small>
 > > [!note] Definisi
+> > 1. Sebagai Adverbia (dalam Kalimat Negatif)
 > > - Digunakan dalam kalimat negatif sebagai pengganti "also" atau "too"; juga.
 > > > [!example] Contoh
 > > > - "Saya belum pernah ke Amerika." "Saya juga belum."
 > > > - Mereka menyajikan makanan yang sangat enak di restoran itu dan harganya tidak terlalu mahal juga.
 > > > - Kami memang tidak hidup mewah, tetapi kami tidak miskin juga.
->
->
-><small>Sebagai Determiner, Pronomina, Konjungsi (Pilihan di antara Dua)</small>
-> > [!note] Definisi
+> > 2. Sebagai Determiner, Pronomina, Konjungsi (Pilihan di antara Dua)
 > > - Digunakan saat merujuk pada pilihan di antara dua kemungkinan.
 > > > [!example] Contoh
 > > > - Sebagai Determiner (Penentu): Salah satu dari kandidat tersebut akan ideal untuk pekerjaan itu.

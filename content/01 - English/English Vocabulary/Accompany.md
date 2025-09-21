@@ -28,24 +28,24 @@
 
 >[!info]+ Terjemahan
 > # Menemani / Menyertai (Accompany)
-><small>Sebagai "Pergi Bersama" (Menyertai / Menemani)</small>
-><small>kata kerja [transitif]</small>
 > > [!note] Definisi
+> > 1. Sebagai "Pergi Bersama" (Menyertai / Menemani)
+> >    kata kerja [transitif]
 > > - Pergi bersama seseorang, atau disediakan/hadir pada saat yang sama dengan sesuatu yang lain; menyertai.
 > > > [!example] Contoh
 > > > - Buku-buku kursus tersebut disertai oleh empat CD.
 > > > - Depresi hampir selalu disertai dengan insomnia.
 > > > - Ikan salmon itu disajikan bersama (disertai) salad hijau segar.
 > > - (Formal) Mengantar atau menunjukkan jalan kepada seseorang.
+> > > [!example] Contoh
 > > > - Maukah Anda saya antar ke kamar Anda?
 > > - (Formal) Pergi bersama seseorang ke acara sosial atau hiburan; menemani.
+> > > [!example] Contoh
 > > > - "Bolehkah saya menemani Anda ke pesta dansa?" tanyanya.
->
->
-><small>Sebagai Musik (Mengiringi)</small>
-><small>kata kerja [transitif]</small>
-> > [!note] Definisi
-> > - Bernyanyi atau memainkan instrumen bersama musisi atau penyanyi lain; mengiringi.
+>>
+> > 2. Sebagai Musik (Mengiringi)
+> > kata kerja [transitif]
+> > Bernyanyi atau memainkan instrumen bersama musisi atau penyanyi lain; mengiringi.
 > > > [!example] Contoh
 > > > - Mengiringi dengan: Nona Jessop mengiringi Tuan Bentley dengan piano.
 > > > - Erin bernyanyi sementara saya mengiringi dengan gitar.

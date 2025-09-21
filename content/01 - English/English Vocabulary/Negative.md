@@ -1,16 +1,14 @@
-<small>adjective
+<small>
+</small>
+>[!note] Definition
+>1. adjective
 uk  /ˈneɡ.ə.tɪv/ us  /ˈneɡ.ə.t̬ɪv/
 negative adjective (NO)
 B2
-</small>
->[!note] Definition
 >- expressing "no":
 > > [!example] 
 > > - We received a negative answer to our request.
-
-<small>A2
-</small>
->[!note] Definition
+> 2. A2
 >- A negative sentence or phrase is one that contains a word such as "not", "no", "never", or "nothing":
 > > [!example] 
 > > - "I've never seen him in my life" is a negative sentence.
@@ -20,15 +18,13 @@ B2
 
 >[!info]+ Terjemahan
 > # Negatif (Negative)
-><small>Sebagai Kata Sifat</small>
 > > [!note] Definisi
+> > 1. Sebagai Kata Sifat
 > > -  Menyatakan "Tidak"
 Menyatakan penolakan atau "tidak".
 > > > [!example] Contoh
-> > > - Kami menerima jawaban penolakan (negatif) atas permintaan kami.
->
-><small>Bentuk Kalimat</small>
-> > [!note] Definisi
+> > > Kami menerima jawaban penolakan (negatif) atas permintaan kami.
+> > 2. Bentuk Kalimat
 > > - Kalimat atau frasa negatif adalah kalimat/frasa yang mengandung kata seperti "not" (tidak), "no" (tidak ada), "never" (tidak pernah), atau "nothing" (tidak ada apa-apa).
 > > > [!example] Contoh
 > > > - “I've never seen him in my life” (Saya tidak pernah melihatnya seumur hidup) adalah kalimat negatif.

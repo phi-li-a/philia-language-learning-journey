@@ -1,8 +1,7 @@
-<small>adjective
+>[!note] Definition
+>1. adjective
 uk  /ɡrəˈmæt.ɪ.kəl/ us  /ɡrəˈmæt̬.ɪ.kəl/
 C2
-</small>
->[!note] Definition
 >- relating to grammar or obeying the rules of grammar:
 > > [!example] 
 > > - a grammatical (= grammatically correct) sentence
