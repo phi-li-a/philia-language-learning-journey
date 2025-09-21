@@ -1,5 +1,5 @@
 >[!note] Definition
->1. verb [ T ]
+>1. [[verb]] [[T]]
 uk  /əʊˈmɪt/ /əˈmɪt / us  /oʊˈmɪt/
 -tt-
 C1

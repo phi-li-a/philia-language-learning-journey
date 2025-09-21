@@ -1,5 +1,5 @@
 >[!note] Definition
->1. adjective
+>1. [[adjective]]
 uk  /əˈtætʃt/ us  /əˈtætʃt/
 >-  be attached to someone/something
 >-  to like someone or something very much:

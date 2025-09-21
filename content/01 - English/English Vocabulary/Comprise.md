@@ -1,5 +1,6 @@
 >[!note] Definition
->1. verb [ T, L only + noun, not continuous ] | formal
+>1. [[verb]], [[T]], [[L only + noun]], [[Not continuous]]
+>   [[formal]]
 uk  /kəmˈpraɪz/ us  /kəmˈpraɪz/
 C1
 >- to have things or people as parts or members; to consist of:

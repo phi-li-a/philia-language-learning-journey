@@ -1,0 +1,1 @@
+A singular noun.

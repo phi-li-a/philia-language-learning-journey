@@ -1,0 +1,1 @@
+A word that is used before a noun, a noun phrase, or a pronoun, connecting it to another word.

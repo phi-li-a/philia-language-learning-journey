@@ -1,7 +1,7 @@
 >[!note] Definition
->1. noun [ C ]
+>1. [[noun]] [[C]]
 uk  /ˈsʌb.dʒekt/ us  /ˈsʌb.dʒekt/
-subject noun [C] (AREA OF DISCUSSION)
+subject [[noun]] [[C]] (AREA OF DISCUSSION)
 B1
 >- the thing that is being discussed, considered, or studied:
 > > [!example] 
@@ -14,8 +14,8 @@ B1
 > > - The school offers courses in every subject imaginable.
 > > - She's got some very interesting things to say on the subject.
 > > - Food, like sex, is a subject of almost universal interest.
->2. subject noun [C] (GRAMMAR)
-B1 language   specialized
+>2. subject [[noun]] [[C]] (GRAMMAR)
+B1 [[language]]   [[specialized]]
 >- the person or thing that performs the action of a verb, or is joined to a description by a verb:
 > > [!example] 
 > > - "Bob" is the subject of the sentence "Bob threw the ball."

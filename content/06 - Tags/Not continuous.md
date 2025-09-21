@@ -1,0 +1,1 @@
+A verb not used in the continuous form.

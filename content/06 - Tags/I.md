@@ -1,0 +1,1 @@
+Intransitive verb: a verb that has no object.

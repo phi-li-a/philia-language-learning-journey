@@ -1,7 +1,7 @@
 >[!note] Definition
->1. noun [ C ]
+>1. [[noun]] [[C]]
 uk  /freɪz/ us  /freɪz/
-phrase noun [C] (GRAMMAR)
+phrase [[noun]] [[C]] (GRAMMAR)
 language
 >- a group of words that is part of, rather than the whole of, a sentence
 > > [!example] 
@@ -11,13 +11,13 @@ language
 > > - The phrase "a hard frost" is a collocation.
 > > - In grammar, an adjunct is an adverb or adverbial phrase that gives extra information in a sentence.
 > >   
->2. phrase noun [C] (EXPRESSION)
+>2. phrase [[noun]] [[C]] (EXPRESSION)
 B1
 >- a short group of words that are often used together and have a particular meaning:
 > > [!example] 
 > > We are governed, in Lord Hailsham's famous phrase, by an "elective dictatorship".
 > >   
->3. phrase noun [C] (MUSIC)
+>3. phrase [[noun]] [[C]] (MUSIC)
 >- a small group of notes forming a unit of a tune
 
 ---

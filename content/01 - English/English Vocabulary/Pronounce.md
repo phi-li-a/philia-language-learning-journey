@@ -1,7 +1,7 @@
 >[!note] Definition
->1. verb [ T ]
+>1. [[verb]] [[T]]
 uk  /prəˈnaʊns/ us  /prəˈnaʊns/
-pronounce verb [T] (MAKE SOUND)
+pronounce [[verb]] [[T]] (MAKE SOUND)
 B1
 >- to say a word or a letter in a particular way:
 > > [!example] 
@@ -14,7 +14,7 @@ B1
 > > - Don't you hate the way she speaks, pronouncing each single consonant so precisely.
 > > - The phonetic alphabet shows you how to pronounce unfamiliar words.
 > > 
->2. pronounce verb [T] (TO STATE)
+>2. pronounce [[verb]] [[T]] (TO STATE)
 formal
 >- to say something officially or certainly:
 > > [!example] 
@@ -25,7 +25,7 @@ formal
 > > - [ + that ] The government pronounced that they are no longer a nuclear state.
 > > - "Have I met him?" "You have indeed - I recall you pronounced the man (= said that he was) a fool."
 > > - The dessert was tried and pronounced delicious.
-> 3. verb [ T ]
+> 3. [[verb]] [[T]]
 adjective
 uk  /prəˈnaʊnst/ us  /prəˈnaʊnst/
 >-  very noticeable or certain:

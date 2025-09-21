@@ -1,8 +1,8 @@
 >[!note] Definition
->1. noun
+>1. [[noun]]
 uk  /ˈɒb.dʒekt/ us  /ˈɑːb.dʒekt/
-object noun (THING)
-B1 [ C ]
+object [[noun]] (THING)
+B1 [[C]]
 >- a thing that you can see or touch but that is not usually a living animal, plant, or person:
 > > [!example] 
 > > - a solid/material/physical object
@@ -13,8 +13,8 @@ B1 [ C ]
 > > - Make sure you bend your knees when you're picking up heavy objects.
 > > - Boxwood is used for making small carved objects and tool handles.
 > > - I like objects to be both functional and aesthetically pleasing.
-> 2. object noun (GRAMMAR)
-B1 [ C ]   language   specialized
+> 2. object [[noun]] (GRAMMAR)
+B1 [[C]]   [[language]]   [[specialized]]
 (written abbreviation obj)
 >- a noun or noun phrase that is affected by the action of a verb or that follows a preposition:
 > > [!example] 

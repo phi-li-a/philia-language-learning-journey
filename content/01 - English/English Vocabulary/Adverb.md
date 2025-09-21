@@ -1,5 +1,5 @@
 >[!note] Definition
->1. noun [ C ]
+>1. [[noun]] [[C]]
 uk  /ˈæd.vɜːb/ us  /ˈæd.vɝːb/
 A2
 >- a word that describes or gives more information about a verb, adjective, adverb, or phrase:

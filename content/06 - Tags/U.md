@@ -1,0 +1,1 @@
+Uncountable or singular noun: a noun that has no plural.

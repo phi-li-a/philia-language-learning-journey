@@ -1,5 +1,5 @@
 >[!note] Definition
->1. adjective
+>1. [[adjective]]
 uk  /dɪˈraɪvd/ us 
 >- coming from or caused by something else:
 > > [!example] 

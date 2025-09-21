@@ -35,13 +35,13 @@
 # Nouns
 - _noun_ 
   A word that refers to a person, place or thing.
-- [C]
+- [[C]]
   Countable noun: a noun that has a plural.
-- [U]
+- [[U]]
   Uncountable or singular noun: a noun that has no plural.
-- [S]
+- [[S]]
   A singular noun.
-- _plural_
+- [[plural]]
   The plural form of a noun.
 - *noun* [plural]
   A noun that can only be used in the plural.
@@ -77,9 +77,9 @@
 # Verbs
  - _verb_
    A word that describes an action, state or experience.
- - [T]
+ - [[T]]
    Transitive verb: a verb that has an object.
- - [I]
+ - [[I]]
    Intransitive verb: a verb that has no object.
  - _auxiliary verb_
    The verbs be, have and do, which combine with other verbs to make different forms like _passives_, _questions_ and the _continuous_.
@@ -94,10 +94,10 @@
  - _phrasal verb_
    A verb followed by an adverb or a preposition.
  - [L]
-   Linking verb: an intransitive verb that is followed by a noun or adjective that refers back to the subject of the sentence.
+   Linking verb: an intransitive verb that is followed by a noun or adjective that refers back to the subject of the *sentence*.
  - [L only + adjective]
    A linking verb only followed by an adjective.
- - [L only + noun]
+ - [[L only + noun]]
    A linking verb only followed by a noun.
  - [+ adv/prep]
    A verb that must be followed by an adverb or preposition.
@@ -141,7 +141,7 @@
    A verb with an object followed by a question word.
  - [usually passive]
    A verb usually used in the passive.
- - [not continuous]
+ - [[not continuous]]
    A verb not used in the continuous form.
  
  >[!info]- Terjemahan
@@ -227,7 +227,7 @@
   A word that refers to a number.
 - _ordinal number_
   A number such as 1st, 2nd, 3rd, 4th, that shows the position of something in a list of things.
-- _preposition_
+- [[preposition]]
   A word that is used before a noun, a noun phrase, or a pronoun, connecting it to another word.
 - _predeterminer_
   A word such as both or all used before other determiners.

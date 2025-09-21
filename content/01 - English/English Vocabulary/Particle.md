@@ -1,25 +1,25 @@
 >[!note] Definition
->1. noun
+>1. [[noun]]
 uk  /ˈpɑː.tɪ.kəl/ us  /ˈpɑːr.t̬ə.kəl/
-particle noun (GRAMMAR)
-[ C ]
+particle [[noun]] (GRAMMAR)
+[[C]]
 >- a word or a part of a word that has a grammatical purpose but often has little or no meaning:
 > > [!example] 
 > > - In the sentence "I tidied up the room", the adverb "up" is a particle.
 > > - A phrasal verb is a verb consisting of a verb plus a particle.
 > > - He often comes out with the wrong particle.
 > 2. particle noun (SMALL PIECE)
-C2 [ C ]
+C2 [[C]]
 >- an extremely small piece of something such as dust, dirt, or sand:
 > > [!example] 
 > > - Dust particles must have got into the motor.
 > > - If feels as though particles of sand are scratching the surface of your eyes.
 > > - smoke particles
-> 3. [ C ]   physics   specialized
+> 3. [[C]]   [[physics]]   [[specialized]]
 >- an extremely small piece of matter, that together with others makes up an atom :
 > > [!example] 
 > > - Electrons are atomic particles.
-> 4. [ S ]
+> 4. [[S]]
 >[!note] Definition
 >- a very small amount of something:
 > > [!example] 

@@ -1,23 +1,23 @@
 >[!note] Definition
->1. verb [ T ]
+>1. [[verb]], [[T]] 
 >   uk  /əˈkʌm.pə.ni/ us  /əˈkʌm.pə.ni/
->   accompany verb [T] (GO WITH)
+>   accompany verb [[T]] (GO WITH)
 >   B1 
 >   - to go with someone or to be provided or exist at the same time as something:
 > > [!example] 
 > > - accompanied by The course books are accompanied by four CDs.
 > > - Depression is almost always accompanied by insomnia.
 > > - The salmon was accompanied by (= served with) a fresh green salad.
->2. formal
+>1. [formal]
 >-  to show someone how to get to somewhere:
 > > [!example] 
 > > - accompany someone to something Would you like me to accompany you to your room?
-> 3. formal
+> 1. [[formal]]
 >-  to go with someone to a social event or to an entertainment:
 > > [!example] 
 > > - accompany someone to something "May I accompany you to the ball?" he asked her.
 > > - I have two tickets for the theatre on Saturday evening - would you like to accompany me?
->4. accompany verb [T] (PLAY MUSIC)
+>1. accompany [[verb]] [[T]] (PLAY MUSIC)
 >C2
 >-  to sing or play an instrument with another musician or singer:
 > > [!example] 

@@ -1,15 +1,15 @@
 >[!note] Definition
->1. noun (UK also inflexion)
+>1. [[noun]] (UK also inflexion)
 uk  /ɪnˈflek.ʃən/ us  /ɪnˈflek.ʃən/
-inflection noun (GRAMMAR)
+inflection [[noun]] (GRAMMAR)
 [ C ]   language   specialized
 >- a change in or addition to the form of a word that shows a change in the way it is used in sentences:
 > > [!example] 
 > > - If you add the plural inflection "-s" to "dog" you get "dogs".
 > > - In the present tense we say "he sits", because the third person singular inflection of the verb is -s.
 > > - By adding the inflection "-ed", you form the past tense of the verb.
-> 2. inflection noun (SPEECH)
-[ C or U ]
+> 2. inflection [[noun]] (SPEECH)
+[[C]] or [[U]]
 >- the way in which the sound of your voice changes during speech, for example when you emphasize particular words:
 > > [!example] 
 > > - His voice was low and flat, with almost no inflection.

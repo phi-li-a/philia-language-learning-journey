@@ -1,0 +1,1 @@
+A linking verb only followed by a noun.

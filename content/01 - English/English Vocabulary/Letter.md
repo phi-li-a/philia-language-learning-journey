@@ -1,7 +1,7 @@
 >[!note] Definition
->1. noun [ C ]
+>1. [[noun]] [[C]]
 uk  /ˈlet.ər/ us  /ˈlet̬.ɚ/ 
-letter noun [C] (MESSAGE)
+letter [[noun]] [[C]] (MESSAGE)
 A1
 >- a written message from one person to another, usually put in an envelope and sent by post:
 > > [!example] 
@@ -11,7 +11,7 @@ A1
 > > - We try to answer readers' letters as promptly as we can.
 > > - In those days people used to write a lot more letters.
 > > - I had a lovely, long, chatty letter from my friend this morning.
-> 2. letter noun [C] (SYMBOL)
+> 2. letter [[noun]] [[C]] (SYMBOL)
 A2
 >- any of the set of symbols used to write a language, representing a sound in the language:
 > > [!example] 

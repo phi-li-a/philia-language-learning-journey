@@ -1,12 +1,10 @@
-<small>
-</small>
 >[!note] Definition
->1. adjective
+>1. [[adjective]]
 uk  /əˈfɜː.mə.tɪv/ us  /əˈfɝː.mə.t̬ɪv/
 >- relating to a statement that shows agreement or says "yes":
 > > [!example] 
 > > - an affirmative answer/response
-> 2. noun [ C or U ]
+> 2. [[noun]], [[C]] or [[U]]
 >    uk  /əˈfɜː.mə.tɪv/ us  /əˈfɝː.mə.t̬ɪv/
 >- a word or statement that shows agreement or says "yes":
 > > [!example] 

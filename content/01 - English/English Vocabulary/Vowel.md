@@ -1,5 +1,5 @@
 >[!note] Definition
->1. noun [ C ]
+>1. [[noun]] [[C]]
 uk  /ˈvaʊ.əl/ us  /ˈvaʊ.əl/
 B1
 >- a speech sound produced by humans when the breath flows out through the mouth without being blocked by the teeth, tongue, or lips:

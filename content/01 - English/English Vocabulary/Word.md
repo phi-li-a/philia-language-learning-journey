@@ -1,8 +1,8 @@
 >[!note] Definition
->1. noun
+>1. [[noun]]
 uk  /wɜːd/ us  /wɝːd/
-word noun (LANGUAGE UNIT)
-A1 [ C ]
+word [[noun]] (LANGUAGE UNIT)
+A1 [[C]]
 >- a single unit of language that has meaning and can be spoken or written:
 > > [!example] 
 > > - Your essay should be no more than two thousand words long.
@@ -18,8 +18,8 @@ A1 [ C ]
  >  used to refer to a word, usually a rude, offensive, or embarrassing one, by saying only the first letter and not the whole word:
  > > [!example] 
 > > You're still not allowed to say the F-word on TV in the US.
->2. word noun (TALKING)
-B2 [ S or plural 
+>2. word [[noun]] (TALKING)
+B2 [[S]] or [[Plural]]
 >- a short discussion, or a short statement expressing a particular thing :
 > > [!example] 
 > > - have a word We need to have a word (= to talk) about something.

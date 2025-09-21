@@ -1,5 +1,5 @@
 >[!note] Definition
->1. preposition, adverb
+>1. [[preposition]], [[adverb]]
 uk  /pɑːst/ us  /pæst/
 past preposition, adverb (POSITION)
 A2
@@ -15,7 +15,7 @@ A2
 > > - The demonstrators formed a solid wall to stop the police from getting past them.
 > >   
 >[!note] Definition
->2. past preposition, adverb (TIME)
+>2. [[past preposition]], [[adverb]] (TIME)
 A1
 >- used to say what the time is when it is a particular number of minutes after an hour:
 > > [!example] 

@@ -1,0 +1,1 @@
+Transitive verb: a verb that has an object.

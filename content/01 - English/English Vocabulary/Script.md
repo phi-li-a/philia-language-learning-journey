@@ -1,23 +1,23 @@
 >[!note] Definition
->1. verb [ I ]
-noun
+>1. [[verb]] [[I]]
+[[noun]]
 uk  /skrɪpt/ us  /skrɪpt/
 script noun (FOR FILM OR LIFE)
-B2 [ C ]
+B2 [[C]]
 >- the words of a film, play, broadcast, or speech:
 > > [!example] 
 > > - script for Bruce Robinson wrote the script for "The Killing Fields".
->2. [ C ]
+>2. [[C]]
 >- the way people are expected to behave or the way a situation is expected to be:
 > > [!example] 
 > > - script for The Stones wrote the script for how a rock band should behave and misbehave.
 > > - The Earth is refusing to follow the script climatologists have written for it.
 > 2. script noun (WRITING)
-C2 [ U ]
+C2 [[U]]
 >- a set of letters used for writing a particular language:
 > > [!example] 
 > > - Arabic/Cyrillic/Roman script
-> 4. [ C or U ]
+> 4. [[C]] or [[U]]
 >- writing, especially when well-formed:
 > > [!example] 
 > > - in script The invitation was written in beautiful italic script.

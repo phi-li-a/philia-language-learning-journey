@@ -1,5 +1,5 @@
 >[!note] Definition
->1. noun [ C ]
+>1. [[Noun]] [[C]]
 uk  /naʊn/ us  /naʊn/
 A2
 >- a word that refers to a person, place, thing, event, substance, or quality:

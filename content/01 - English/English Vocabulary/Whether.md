@@ -1,5 +1,5 @@
 >[!note] Definition
->1. conjunction
+>1. [[conjunction]]
 uk  /ˈweð.ər/ us  /ˈweð.ɚ/
 B1
 >- (used especially in reporting questions and expressing doubts) if, or not:

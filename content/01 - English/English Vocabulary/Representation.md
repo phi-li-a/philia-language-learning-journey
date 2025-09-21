@@ -1,8 +1,8 @@
 >[!note] Definition
->1. noun
+>1. [[noun]]
 uk  /ˌrep.rɪ.zenˈteɪ.ʃən/ us  /ˌrep.rɪ.zenˈteɪ.ʃən/
 representation noun (ACTING FOR)
-C2 [ U ]
+C2 [[U]]
 >- a person or organization that speaks, acts, or is present officially for someone else:
 > > [!example] 
 > > - Can he afford legal representation?
@@ -12,19 +12,19 @@ C2 [ U ]
 > > - The scheme is intended to increase representation of minority groups.
 > > - The members are chosen by a system of proportional representation.
 > >   
->2. representation noun (DESCRIPTION)
-C2 [ U ]
+>2. representation [[noun]] (DESCRIPTION)
+C2 [[U]]
 >- the way that someone or something is shown or described:
 > > [!example] 
 > > - He gave a talk on the representation of women in 19th-century art.
 > >   
->3. [ C ]
+>3. [[C]]
 >- a sign, picture, model, etc. of something:
 > > [!example] 
 > > - This statue is a representation of Hercules.
 > >   
->3. representation noun (INCLUDING ALL)
-[ C or U ]
+>3. representation [[noun]] (INCLUDING ALL)
+[[C]] or [[U]]
 >- the fact of including different types of people, for example in films, politics, or sport, so that all different groups are represented:
 > > [!example] 
 > > - They explore complex and delicate issues of race, diversity, and representation in the news business.

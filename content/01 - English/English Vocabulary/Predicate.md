@@ -1,10 +1,10 @@
 >[!note] Definition
->1. noun [ C ]   language   specialized
+>1. [[noun]] [[C]]   [[language]]   [[specialized]]
 uk  /ˈpred.ɪ.kət/ us  /ˈpred.ə.kət/
 >- in grammar, the part of a sentence that contains the verb and gives information about the subject:
 > > [!example] 
 > > In the sentence "We went to the airport", "went to the airport" is the predicate.
-> 2. verb [ T ]   formal
+> 2. [[verb]] [[T]]   [[formal]]
 uk  /ˈpred.ɪ.keɪt/ us  /ˈpred.ɪ.keɪt/
 >- to say that something is true:
 > > [!example] 

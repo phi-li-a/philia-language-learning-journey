@@ -1,7 +1,7 @@
 <small>
 </small>
 >[!note] Definition
->1. adjective
+>1. [[adjective]]
 uk  /ˈneɡ.ə.tɪv/ us  /ˈneɡ.ə.t̬ɪv/
 negative adjective (NO)
 B2

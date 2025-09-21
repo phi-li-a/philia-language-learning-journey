@@ -1,6 +1,6 @@
 
 >[!note] Definition
->1. preposition
+>1. [[preposition]]
 >   uk  /əˈkɔː.dɪŋ ˌtuː/ us  /əˈkɔːr.dɪŋ ˌtuː/
 >   according to preposition (OPINION)
 >   B1

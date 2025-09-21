@@ -1,6 +1,6 @@
 
 >[!note] Definition
->1. adverb
+>1. [[adverb]]
 uk  /ˈaɪ.ðər/ /ˈiː.ðər/ us  /ˈiː.ðɚ/ /ˈaɪ.ðɚ/
 B1
 >-  used in negative sentences instead of "also" or "too":
@@ -13,7 +13,7 @@ B1
 > > - Actually I'm pleased you don't want to go, because I don't either.
 > > - I'm not allowed another piece of cake, so you're not either.
 > >   
-> 2. determiner, pronoun, conjunction
+> 2. [[determiner]], [[pronoun]], [[conjunction]]
 uk  /ˈaɪ.ðər/ /ˈiː.ðər/ us  /ˈiː.ðɚ/ /ˈaɪ.ðɚ/
 B1
 >-  used when referring to a choice between two possibilities:

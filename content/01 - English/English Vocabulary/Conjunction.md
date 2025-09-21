@@ -1,5 +1,5 @@
 >[!note] Definition
->1. noun
+>1. [[noun]]
 uk  /kənˈdʒʌŋk.ʃən/ us  /kənˈdʒʌŋk.ʃən/
 conjunction noun (CONNECTING WORD)
 B2 [ C ]
@@ -15,7 +15,7 @@ C2 [ C or U ]
 > > [!example] 
 > > - An unfortunate conjunction of circumstances led to his downfall.
 > > - There is a team of writers working in conjunction (with each other) on the book.
-> 3. [ C or U ] specialized
+> 3. [ C or U ] [[specialized]]
 (formal conjuncture)
 >- in astrology, the situation in which two planets appear to be in the same part of the sky as seen from earth:
 > > [!example] 

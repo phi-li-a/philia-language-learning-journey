@@ -1,5 +1,5 @@
 >[!note] Definition
->1. noun [ C ]
+>1. [[noun]] [[C]]
 uk  /vɜːb/ us  /vɝːb/
 A2
 >- a word or phrase that describes an action, condition, or experience:

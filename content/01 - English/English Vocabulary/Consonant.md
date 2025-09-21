@@ -1,5 +1,5 @@
 >[!note] Definition
->1. noun [ C ]
+>1. [[noun]] [[C]]
 uk  /ˈkɒn.sə.nənt/ us  /ˈkɑːn.sə.nənt/
 B1
 >-  one of the speech sounds or letters of the alphabet that is not a [[vowel]]. Consonants are pronounced by stopping the air from flowing easily through the mouth, especially by closing the lips or touching the teeth with the tongue.

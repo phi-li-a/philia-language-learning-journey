@@ -1,12 +1,12 @@
 >[!note] Definition
->1. verb
+>1. [[verb]]
 uk  /ɪnˈflekt/ us  /ɪnˈflekt/
 [ I or T ]   language   specialized
 >- (of a word) to change spelling or ending according to the way it is used in a sentence; to change a spelling or ending in this way:
 > > [!example] 
 > > - Almost all word types can inflect in Finnish.
 > > - language where verbs are inflected
-> 2. [ T ]
+> 2. [[T]]
 >- to slightly influence or show the slight influence of something:
 > > [!example] 
 > > - inflect something with something The actors inflect their performances with sincere emotion.

@@ -1,0 +1,1 @@
+Countable noun: a noun that has a plural.

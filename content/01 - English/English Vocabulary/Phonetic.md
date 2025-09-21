@@ -1,5 +1,5 @@
 >[!note] Definition
->1. adjective   language   specialized
+>1. [[adjective]]   [[language]]   [[specialized]]
 uk  /fəˈnet.ɪk/ us  /foʊˈnet̬.ɪk/
 >- using special signs to represent the different sounds made by the voice in speech:
 > > [!example] 

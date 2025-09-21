@@ -1,5 +1,5 @@
 >[!note] Definition
->1. noun [ C ]
+>1. [[noun]] [[[C]]
 uk  /ˈædʒ.ek.tɪv/ us  /ˈædʒ.ek.tɪv/
 A2
 >- a word that describes a noun or pronoun:
@@ -15,7 +15,6 @@ A2
 >[!info]+ Terjemahan
 > # Kata Sifat (Adjective)
 ><small>kata benda [dapat dihitung]
-</small>
 > > [!note] Definisi
 > > - Sebuah kata yang menjelaskan kata benda atau kata ganti.
 > > > [!example] Contoh

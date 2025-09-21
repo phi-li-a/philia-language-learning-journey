@@ -1,5 +1,5 @@
 >[!note] Definition
->1. noun [ C ]   language   specialized
+>1. [[noun]] [[C]]  [[language]]   [[specialized]]
 uk  /ˈmɒd.ɪ.faɪ.ər/ us  /ˈmɑː.də.faɪ.ɚ/
 >- a word or phrase that is used with another word or phrase to limit or add to its meaning:
 > > [!example] 
