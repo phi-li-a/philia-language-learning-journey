@@ -1,3 +1,4 @@
+word usually written using kana alone
 >[!note] Definition
 >1. [[Noun]]
 /ˈkɑːnə/

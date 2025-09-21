@@ -1,0 +1,1 @@
+Godan verb with 'ru' ending

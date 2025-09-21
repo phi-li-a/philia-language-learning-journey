@@ -1,0 +1,1 @@
+nouns which may take the genitive case particle 'no'

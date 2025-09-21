@@ -5,7 +5,7 @@
    An adjective that only follows a noun.
  - [after verb]
    An adjective that only follows a verb.
- - [before noun]
+ - [[before noun]]
    An adjective that only goes before a noun.
  - comparative
    The form of an adjective or adverb that expresses a difference in amount, number, degree, or quality.

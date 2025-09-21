@@ -1,0 +1,1 @@
+An adjective that only goes before a noun.

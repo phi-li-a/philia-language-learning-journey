@@ -1,0 +1,1 @@
+noun or participle which takes the aux. verb suru
