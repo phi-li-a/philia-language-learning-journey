@@ -1,24 +1,16 @@
-<small>/ob·jek/ /objék/ n nomina (kata benda)</small>
 >[!note] Definisi
+>1. /ob·jek/ /objék/ n nomina (kata benda)
 > hal, perkara, atau orang yang menjadi pokok pembicaraan;
-
-<small>Kim kimia</small>
->[!note] Definisi
-> benda, hal, dan sebagainya yang dijadikan sasaran untuk diteliti, diperhatikan, dan sebagainya
+>2. Kim kimia
+> - benda, hal, dan sebagainya yang dijadikan sasaran untuk diteliti, diperhatikan, dan sebagainya
 > > [!example] Contoh
-> > - Objek penelitian ini adalah tata kehidupan suku terasing di Riau
-
-<small>Ling linguistik</small>
->[!note] Definisi
+> > Objek penelitian ini adalah tata kehidupan suku terasing di Riau
+>3. Ling linguistik
 > nomina yang melengkapi verba transitif dalam klausa, misalnya _teh manis_ dalam kalimat _Kiki minum teh manis_
-
->[!note] Definisi
-> hal atau benda yang menjadi sasaran usaha sambilan
+>4. hal atau benda yang menjadi sasaran usaha sambilan
 > > [!example] Contoh
-> > - berdagang kain menjadi salah satu objek orang- orang di kota itu
-
-<small>Fis fisika</small>
->[!note] Definisi
+> > berdagang kain menjadi salah satu objek orang- orang di kota itu
+>5. Fis fisika
 > titik atau himpunan yang bertindak sebagai sumber cahaya bagi suatu lensa, cermin, atau bagi suatu sistem lensa;
 
 

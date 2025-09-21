@@ -1,7 +1,6 @@
-<small>/no·mi·na/ n Lin (nomina (kata benda), linguistik)
-</small>
 >[!note] Definisi
-> kelas kata yang dalam bahasa Indonesia ditandai oleh tidak dapatnya bergabung dengan kata tidak, misalnya rumah adalah nomina karena tidak mungkin dikatakan tidak rumah, biasanya dapat berfungsi sebagai subjek atau objek dari klausa;
+>1. /no·mi·na/ n Lin (nomina (kata benda), linguistik)
+> - kelas kata yang dalam bahasa Indonesia ditandai oleh tidak dapatnya bergabung dengan kata tidak, misalnya rumah adalah nomina karena tidak mungkin dikatakan tidak rumah, biasanya dapat berfungsi sebagai subjek atau objek dari klausa;
 
 >[!example] Sub-entri
 >- Nomina abstrak 

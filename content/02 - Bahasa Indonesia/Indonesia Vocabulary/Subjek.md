@@ -1,24 +1,15 @@
-<small>/sub·jek/ /subjék/ n nomina (kata benda)</small>
 >[!note] Definisi
-> pokok pembicaraan; pokok bahasan;
-
-<small>Ling linguistik</small>
->[!note] Definisi
-> bagian klausa yang menandai apa yang dikatakan oleh pembicara; pokok kalimat;
-
->[!note] Definisi
-> pelaku
+>1. /sub·jek/ /subjék/ n nomina (kata benda)
+> - pokok pembicaraan; pokok bahasan;
+>2. Ling linguistik
+> - bagian klausa yang menandai apa yang dikatakan oleh pembicara; pokok kalimat;
+> 3. pelaku
 > > [!example] Contoh
 > > - dalam pengkajian itu manusia dapat berperan sebagai subjek di samping sebagai objek pengkajian;
-
->[!note] Definisi
-> mata pelajaran
+> 4. mata pelajaran
 > > [!example] Contoh
 > > - bahasa Indonesia merupakan subjek pokok di sekolah;
-
-
->[!note] Definisi
-> orang, tempat, atau benda yang diamati dalam rangka pembuntutan sebagai sasaran;
+> 5. orang, tempat, atau benda yang diamati dalam rangka pembuntutan sebagai sasaran;
 
 >[!example] Sub-entri
 >- Subjek gabungan 

@@ -5,7 +5,7 @@ uk  /əˈtætʃt/ us  /əˈtætʃt/
 >-  to like someone or something very much:
 > > [!example] 
 > > - The children are very attached to their grandparents.
-I'm very attached to my old guitar.
+> > - I'm very attached to my old guitar.
 
 ---
 

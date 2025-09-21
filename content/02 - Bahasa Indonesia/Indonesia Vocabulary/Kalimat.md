@@ -1,11 +1,8 @@
-<small>/ka·li·mat/ n (nomina (kata benda))
-</small>
 >[!note] Definisi
+>1. /ka·li·mat/ n (nomina (kata benda))
 > - kesatuan ujar yang mengungkapkan suatu konsep pikiran dan perasaan;
 > - perkataan;
-
-<small>Ling (linguistik)</small>
->[!note] Definisi
+>2. Ling (linguistik)
 > - satuan bahasa yang secara relatif berdiri sendiri, mempunyai pola intonasi final dan secara aktual ataupun potensial terdiri atas klausa;
 
 >[!example] Sub-entri

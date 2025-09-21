@@ -1,11 +1,8 @@
-<small>/kon·jung·si/ n Lin (nomina (kata benda), linguistik)
-</small>
 >[!note] Definisi
-> kata atau ungkapan penghubung antarkata, antarfrasa, antarklausa, dan antarkalimat;
-<small>Astron (astronomi)
-</small>
->[!note] Definisi
-> pertemuan atau papasan semu antara dua benda angkasa atau lebih dalam derajat rasi yang sama;
+>1. /kon·jung·si/ n Lin (nomina (kata benda), linguistik)
+> - kata atau ungkapan penghubung antarkata, antarfrasa, antarklausa, dan antarkalimat;
+>2. Astron (astronomi)
+> - pertemuan atau papasan semu antara dua benda angkasa atau lebih dalam derajat rasi yang sama;
 
 >[!example] Sub-entri
 >- Konjungsi koordinatif 

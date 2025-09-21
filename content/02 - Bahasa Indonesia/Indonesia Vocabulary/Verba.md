@@ -1,7 +1,6 @@
-<small>/ver·ba/ /vérba/ n Ling (nomina (kata benda), linguistik)
-</small>
 >[!note] Definisi
-> kata yang menggambarkan proses, perbuatan, atau keadaan; kata kerja;
+>1. /ver·ba/ /vérba/ n Ling (nomina (kata benda), linguistik)
+> - kata yang menggambarkan proses, perbuatan, atau keadaan; kata kerja;
 
 >[!example] Sub-entri
 >- Verba atelis

@@ -1,5 +1,5 @@
-<small>/ak·sa·ra/ n Ling</small>
 >[!note] Definisi
+>1. /ak·sa·ra/ n Ling
 > - sistem tanda grafis yang digunakan manusia untuk berkomunikasi dan sedikit banyaknya mewakili ujaran;
 > - jenis sistem tanda grafis tertentu, misalnya aksara Pallawa, aksara Inka;
 > - huruf;

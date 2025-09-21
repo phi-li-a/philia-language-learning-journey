@@ -1,11 +1,8 @@
-<small>l/par·ti·kel/ n (nomina (kata benda))
-</small>
 >[!note] Definisi
-> unsur butir (dasar) benda atau bagian benda yang sangat kecil dan berdimensi; materi yang sangat kecil, seperti butir pasir, elektron, atom, atau molekul; zarah
-<small>Ling (linguistik)
-</small>
->[!note] Definisi
-> kata yang biasanya tidak dapat diderivasikan atau diinfleksikan, mengandung makna gramatikal dan tidak mengandung makna leksikal, termasuk di dalamnya artikel, preposisi, konjungsi, dan interjeksi;
+>1. /par·ti·kel/ n (nomina (kata benda))
+> - unsur butir (dasar) benda atau bagian benda yang sangat kecil dan berdimensi; materi yang sangat kecil, seperti butir pasir, elektron, atom, atau molekul; zarah
+>2. Ling (linguistik)
+> - kata yang biasanya tidak dapat diderivasikan atau diinfleksikan, mengandung makna gramatikal dan tidak mengandung makna leksikal, termasuk di dalamnya artikel, preposisi, konjungsi, dan interjeksi;
 
 >[!example] Sub-entri
 >- Partikel ingkar 
