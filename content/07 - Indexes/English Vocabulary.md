@@ -58,3 +58,18 @@
 |      [[Kana]]       |
 |   [[Colloquial]]    |
 |    [[Euphemism]]    |
+|   [[Adjectival]]    |
+|     [[Archaic]]     |
+|    [[Familiar]]     |
+|    [[Honorific]]    |
+|  [[Interjection]]   |
+|     [[Plural]]      |
+|      [[Sumo]]       |
+|   [[Transitive]]    |
+|   [[Preposition]]   |
+|     [[Suffix]]      |
+|     [[Sports]]      |
+|   [[Constitute]]    |
+|  [[Intransitive]]   |
+|    [[Belonging]]    |
+|                     |

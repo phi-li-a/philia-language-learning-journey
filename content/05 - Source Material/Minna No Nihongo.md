@@ -144,49 +144,49 @@ Contoh:
 **2) Cara Menulis Katakana**
 Menggunakan tanda "—" sebagai tanda bunyi panjang.
 
-### 3. 「発音《はつおん》」(Pronunciation of ん)
+### 3. 「[[発音]]」(Pronunciation of ん)
 
 ん never appears at the beginning of a word. It [[constitutes]] one mora. For easier pronunciation, the way it is said changes according to the sound that comes after it.
 
 1. It is pronounced /n/ before the sounds in the た-, だ-, ら- and な-rows.
    
    *examples:* 
-	1. は*ん*たい (opposite)
-	2. う*ん*どう (sport)
-	3. せ*ん*ろ (rail)
-	4. み*ん*な (all)
+	1. [[はんたい]] (opposite)
+	2. [[うんどう]] (sport)
+	3. [[せんろ]] (rail)
+	4. [[みんな]] (all)
 	    
 2. It is pronounced /m/ before the sounds in the ば-, ぱ- and ま-rows.
    
    *examples:* 
-	1. し*ん*ぶん (newspaper)
-	2. え*ん*ぴつ (pencil)
-	3. う*ん*めい (destiny)
+	1. [[しんぶん]] (newspaper)
+	2. [[えんぴつ]] (pencil)
+	3. [[うんめい]] (destiny)
 	    
 3. It is pronounced /ŋ/ before the sounds in the か- and が-rows.
    
    *examples:* 
-	1. て*ん*き (weather)
-	2. け*ん*がく (visit)
+	1. [[てんき]](weather)
+	2. [[けんがく]] (visit)
 	    
 
-### 4. 「促音《そくおん》」(Pronunciation of っ)
+### 4. 「[[促音]]」(Pronunciation of っ)
 
 っ appears before a sound [[belonging]] to either the か-, さ-, た- or ぱ-row. In writing loan words, it is also used before sounds belonging to the ざ-row, だ-row, etc. It constitutes one mora and has one mora’s length. 
 *examples:* 
-- ぶか (subordinate): ぶ*っ*か (commodity price)
-- かさい (fire): か*っ*さい (applause)
-- おと (sound): お*っ*と (husband)
-- に*っ*き (diary) ざ*っ*し (magazine) き*っ*て (stamp)
-- い*っ*ばい (a cup of~) コ*ッ*プ (glass) ベ*ッ*ド (bed)
+- [[ぶか]] (subordinate): [[ぶっか]] (commodity price)
+- [[かさい]] (fire):  [[かっさい]](applause)
+- [[おと]] (sound): [[おっと]] (husband)
+- [[にっき]] (diary) [[ざっし]] (magazine) [[きって]] (stamp)
+- [[いっぱい]] (a cup of~) [[コップ]] (glass) [[ベッド]] (bed)
 
-### 5. 「拗音《ようおん》」 (Pronunciation of Letters Combined with や, ゆ or よ)
+### 5. 「[[拗音]]」 (Pronunciation of Letters Combined with や, ゆ or よ)
 き, ぎ, し, じ, ち, に, ひ, び, ぴ, み or り can combine with や, ゆ or よ, and the two letters together constitute one mora.
 *examples:* 
-- ひゃく (jump): ひ*ゃ*く (hundred
-- じゆう (freedom): じ*ゅ*う (ten)
-- びよういん (beauty parlor): び*ょ*ういん (hospital)
-- シ*ャ*ツ (shirt) おちゃ (tea) ぎ*ゅ*うに*ゅ*う (milk)
+- [[ひやく]] (jump): [[ひゃく]] (hundred
+- [[じゆう]] (freedom): [[じゅう]] (ten)
+- [[びよういん]] (beauty parlor): [[びょういん]] (hospital)
+- [[シャツ]] (shirt) おちゃ (tea) ぎ*ゅ*うに*ゅ*う (milk)
 - き*ょ*う (today) ぶち*ょ*う (department chief) り*ょ*こう (travel)
 
 ### 6. Pronunciation of the が-row
